@@ -4,6 +4,7 @@ import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
 import { createAdminClient } from "@/lib/supabase/admin";
+import { sanitizeArticleHtml, isMissingTagsColumn } from "@/lib/blog-publish";
 
 export type ArticlePayload = {
   id?: string;
@@ -16,8 +17,9 @@ export type ArticlePayload = {
   cover?: string;
   readingTime?: number;
   status: "draft" | "published";
-  body: { type: "h2" | "p" | "ul"; text?: string; items?: string[] }[];
+  body: { type: "h2" | "p" | "ul" | "html"; text?: string; items?: string[] }[];
   faqs: { question: string; answer: string }[];
+  tags?: string[];
 };
 
 async function requireUser() {
@@ -31,6 +33,11 @@ async function requireUser() {
 
 export async function saveArticle(p: ArticlePayload) {
   const { sb } = await requireUser();
+  // Re-sanitize any rich-HTML blocks here too, so the admin save path keeps the same
+  // invariant as the publish API (never persist unsanitized HTML to the render path).
+  const body = p.body.map((b) =>
+    b.type === "html" ? { ...b, text: sanitizeArticleHtml(b.text ?? "") } : b,
+  );
   const row = {
     slug: p.slug,
     title: p.title,
@@ -41,14 +48,22 @@ export async function saveArticle(p: ArticlePayload) {
     cover: p.cover || null,
     reading_time: p.readingTime || 4,
     status: p.status,
-    body: p.body,
+    body,
     faqs: p.faqs,
+    tags: p.tags ?? [],
     published_at: p.status === "published" ? new Date().toISOString() : null,
     updated_at: new Date().toISOString(),
   };
-  const res = p.id
+  let res = p.id
     ? await sb.from("articles").update(row).eq("id", p.id)
     : await sb.from("articles").insert(row);
+  // Tolerate a DB without the `tags` migration: retry without tags.
+  if (res.error && isMissingTagsColumn(res.error)) {
+    const { tags: _omitTags, ...rowNoTags } = row;
+    res = p.id
+      ? await sb.from("articles").update(rowNoTags).eq("id", p.id)
+      : await sb.from("articles").insert(rowNoTags);
+  }
   if (res.error) return { error: res.error.message };
 
   revalidatePath("/blog");

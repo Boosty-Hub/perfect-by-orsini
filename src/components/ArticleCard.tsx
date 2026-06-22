@@ -1,6 +1,6 @@
 import Link from "next/link";
-import Image from "next/image";
 import type { BlogPost } from "@/content/schema";
+import { BlogCover } from "@/components/BlogCover";
 import { topicMeta, formatDate } from "@/lib/blog";
 
 export function ArticleCard({ post }: { post: BlogPost }) {
@@ -12,10 +12,9 @@ export function ArticleCard({ post }: { post: BlogPost }) {
     >
       <div className="relative aspect-[16/10] overflow-hidden">
         {post.cover && (
-          <Image
+          <BlogCover
             src={post.cover}
             alt={post.title}
-            fill
             sizes="(max-width: 768px) 92vw, 380px"
             className="object-cover transition-transform duration-500 group-hover:scale-105"
           />

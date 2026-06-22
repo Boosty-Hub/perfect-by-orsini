@@ -113,6 +113,7 @@ Ver `docs/CONTENT-GUIDELINES.md`. Reglas que **no** se deben romper:
 ## Notas de deploy
 
 - **Variables de entorno en el host (Netlify/Vercel):** configurar las 3 de Supabase (`NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`). El `.env.local` NO se commitea, así que **sin esto el build FALLA** al pre-renderizar `/blog/[slug]` (`Error: supabaseUrl is required`). Las `NEXT_PUBLIC_*` deben estar disponibles en build.
+- **API de publicación del blog** (hub externo de SEO → este sitio): `POST /api/blog/publish` (upsert por slug, HTML sanitizado con `sanitize-html`, imágenes por URL). Requiere `BLOG_PUBLISH_SECRET` en el host (sin ella el endpoint responde 503); opcionales `BLOG_DEFAULT_TOPIC|AUTHOR|STATUS`. Contrato completo en `docs/BLOG-API.md`.
 - Repo en GitHub: **`Boosty-Hub/perfect-by-orsini`** (privado). GitHub Actions: workflow de Instagram cada 4 días.
 - Conectar a Google Search Console al desplegar. Pendiente off-page (no es código): Google Business Profile, Doctoralia, prensa.
 - `next.config.ts` permite el CDN de Webflow solo para migración; en producción los assets son locales.

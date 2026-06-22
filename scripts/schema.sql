@@ -37,10 +37,13 @@ create table if not exists public.articles (
   reading_time int default 4,
   status text not null default 'draft',
   author_name text default 'Dr. Omar Orsini',
+  tags text[] not null default '{}'::text[],
   published_at timestamptz,
   created_at timestamptz default now(),
   updated_at timestamptz default now()
 );
+-- Idempotent: add `tags` to pre-existing databases created before this column.
+alter table public.articles add column if not exists tags text[] not null default '{}'::text[];
 create index if not exists articles_status_idx on public.articles (status, published_at desc);
 
 -- Auto-create a profile when an auth user is created (role from metadata)

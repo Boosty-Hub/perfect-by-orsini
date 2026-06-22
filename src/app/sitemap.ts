@@ -4,6 +4,10 @@ import { services, serviceHref } from "@/lib/services";
 import { kindPriority } from "@/content/taxonomy";
 import { getArticles, topics } from "@/lib/blog";
 
+// Regenerate hourly so articles published via the API (after deploy) appear in the
+// sitemap without a rebuild.
+export const revalidate = 3600;
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const base = site.url;
   const now = new Date();

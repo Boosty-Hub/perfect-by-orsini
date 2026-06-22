@@ -63,9 +63,10 @@ export const Specialty = z.object({
 });
 export type Specialty = z.infer<typeof Specialty>;
 
-/** A typed content block (no markdown runtime needed). */
+/** A typed content block (no markdown runtime needed).
+ *  "html" holds a pre-sanitized rich-HTML body (used by articles published via the API). */
 export const Block = z.object({
-  type: z.enum(["h2", "p", "ul"]),
+  type: z.enum(["h2", "p", "ul", "html"]),
   text: z.string().optional(),
   items: z.array(z.string()).optional(),
 });
@@ -88,6 +89,7 @@ export const BlogPost = z.object({
   publishedAt: z.string(), // ISO
   updatedAt: z.string().optional(),
   faqs: z.array(Faq).default([]),
+  tags: z.array(z.string()).default([]),
 });
 export type BlogPost = z.infer<typeof BlogPost>;
 

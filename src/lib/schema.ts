@@ -113,6 +113,7 @@ export function articleSchema(post: BlogPost) {
     author: { "@id": PHYSICIAN_ID },
     publisher: { "@id": CLINIC_ID },
     mainEntityOfPage: `${site.url}/blog/${post.slug}`,
+    keywords: post.tags?.length ? post.tags.join(", ") : undefined,
   };
 }
 

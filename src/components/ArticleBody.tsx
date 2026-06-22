@@ -4,6 +4,15 @@ export function ArticleBody({ blocks }: { blocks: Block[] }) {
   return (
     <div className="space-y-5">
       {blocks.map((b, i) => {
+        if (b.type === "html")
+          // Pre-sanitized at publish time (see lib/blog-publish.ts). Styled by `.article-html`.
+          return (
+            <div
+              key={i}
+              className="article-html"
+              dangerouslySetInnerHTML={{ __html: b.text ?? "" }}
+            />
+          );
         if (b.type === "h2")
           return (
             <h2 key={i} className="mt-10 text-2xl text-ink-900">

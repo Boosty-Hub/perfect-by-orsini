@@ -9,7 +9,9 @@ const TOPIC_OPTS = [
   { slug: "prevencion", label: "Prevención" },
 ];
 
-type Block = { type: "h2" | "p" | "ul"; text?: string; items?: string[] };
+// "html" blocks are produced by the publish API (rich HTML); the editor can view/edit
+// their raw HTML. It is re-sanitized server-side in saveArticle on every save.
+type Block = { type: "h2" | "p" | "ul" | "html"; text?: string; items?: string[] };
 type Faq = { question: string; answer: string };
 type Initial = {
   id?: string;
@@ -24,6 +26,7 @@ type Initial = {
   status?: string;
   body?: Block[];
   faqs?: Faq[];
+  tags?: string[];
 };
 
 const inputCls =
@@ -49,6 +52,7 @@ export function ArticleEditor({ initial }: { initial?: Initial }) {
   const [dek, setDek] = useState(initial?.dek ?? "");
   const [cover, setCover] = useState(initial?.cover ?? "");
   const [readingTime, setReadingTime] = useState(initial?.reading_time ?? 4);
+  const [tags, setTags] = useState((initial?.tags ?? []).join(", "));
   const [body, setBody] = useState<Block[]>(
     initial?.body?.length ? initial.body : [{ type: "p", text: "" }],
   );
@@ -95,6 +99,7 @@ export function ArticleEditor({ initial }: { initial?: Initial }) {
       status,
       body: cleanBody,
       faqs: cleanFaqs,
+      tags: tags.split(",").map((t) => t.trim()).filter(Boolean),
     };
     start(async () => {
       const r = await saveArticle(payload);
@@ -137,6 +142,7 @@ export function ArticleEditor({ initial }: { initial?: Initial }) {
                     <option value="h2">Subtítulo</option>
                     <option value="p">Párrafo</option>
                     <option value="ul">Lista</option>
+                    <option value="html">HTML</option>
                   </select>
                   <div className="ml-auto flex gap-1 text-nude-500">
                     <button type="button" onClick={() => move(i, -1)} className="flex h-9 w-9 items-center justify-center rounded hover:bg-nude-200 hover:text-ink-900">↑</button>
@@ -154,11 +160,17 @@ export function ArticleEditor({ initial }: { initial?: Initial }) {
                   />
                 ) : (
                   <textarea
-                    rows={b.type === "h2" ? 1 : 4}
+                    rows={b.type === "h2" ? 1 : b.type === "html" ? 12 : 4}
                     value={b.text ?? ""}
                     onChange={(e) => updateBlock(i, { text: e.target.value })}
-                    placeholder={b.type === "h2" ? "Subtítulo de sección" : "Escribe el párrafo…"}
-                    className="w-full rounded-lg border border-nude-200 px-3 py-2 text-sm outline-none focus:border-nude-400"
+                    placeholder={
+                      b.type === "html"
+                        ? "HTML del artículo (se sanitiza al guardar)"
+                        : b.type === "h2"
+                          ? "Subtítulo de sección"
+                          : "Escribe el párrafo…"
+                    }
+                    className={`w-full rounded-lg border border-nude-200 px-3 py-2 text-sm outline-none focus:border-nude-400 ${b.type === "html" ? "font-mono text-xs" : ""}`}
                   />
                 )}
               </div>
@@ -246,6 +258,10 @@ export function ArticleEditor({ initial }: { initial?: Initial }) {
           <label className="block font-medium text-ink-900">
             Meta título (SEO)
             <input value={metaTitle} onChange={(e) => setMetaTitle(e.target.value)} className={inputCls} />
+          </label>
+          <label className="block font-medium text-ink-900">
+            Etiquetas (separadas por coma)
+            <input value={tags} onChange={(e) => setTags(e.target.value)} placeholder="peeling, cuidados" className={inputCls} />
           </label>
           <label className="block font-medium text-ink-900">
             Portada (URL)

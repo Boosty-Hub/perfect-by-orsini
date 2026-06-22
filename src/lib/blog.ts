@@ -36,6 +36,7 @@ type Row = {
   cover: string | null;
   reading_time: number | null;
   author_name: string | null;
+  tags: string[] | null;
   published_at: string | null;
 };
 
@@ -53,6 +54,7 @@ function toPost(r: Row): BlogPost {
     readingTime: r.reading_time ?? 4,
     author: r.author_name ?? "Dr. Omar Orsini",
     publishedAt: r.published_at ?? "",
+    tags: r.tags ?? [],
   };
 }
 
@@ -62,6 +64,9 @@ export async function getArticles(): Promise<BlogPost[]> {
     .from("articles")
     .select("*")
     .eq("status", "published")
+    // Best-effort scheduling: future-dated articles stay hidden until their time;
+    // ISR (revalidate) surfaces them automatically once the date passes.
+    .lte("published_at", new Date().toISOString())
     .order("published_at", { ascending: false });
   return (data ?? []).map(toPost);
 }
@@ -73,6 +78,7 @@ export async function getArticlesByTopic(topic: string): Promise<BlogPost[]> {
     .select("*")
     .eq("status", "published")
     .eq("topic", topic)
+    .lte("published_at", new Date().toISOString())
     .order("published_at", { ascending: false });
   return (data ?? []).map(toPost);
 }
@@ -84,6 +90,7 @@ export async function getArticle(slug: string): Promise<BlogPost | null> {
     .select("*")
     .eq("slug", slug)
     .eq("status", "published")
+    .lte("published_at", new Date().toISOString())
     .maybeSingle();
   return data ? toPost(data as Row) : null;
 }

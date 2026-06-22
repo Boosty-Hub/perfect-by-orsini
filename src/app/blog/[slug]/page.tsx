@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import Image from "next/image";
+import { BlogCover } from "@/components/BlogCover";
 import { Container } from "@/components/ui/Container";
 import { Button } from "@/components/ui/Button";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
@@ -92,7 +92,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
 
       {a.cover && (
         <div className="relative mx-auto aspect-[4/3] w-full max-w-5xl overflow-hidden sm:aspect-[16/9] md:aspect-[16/7] md:rounded-b-3xl">
-          <Image src={a.cover} alt={a.title} fill priority sizes="100vw" className="object-cover" />
+          <BlogCover src={a.cover} alt={a.title} priority sizes="100vw" className="object-cover" />
         </div>
       )}
 
@@ -108,6 +108,20 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
               <div className="mt-5">
                 <Faqs items={a.faqs} />
               </div>
+            </div>
+          )}
+
+          {a.tags.length > 0 && (
+            <div className="mt-10 flex flex-wrap items-center gap-2">
+              <span className="text-xs uppercase tracking-[0.2em] text-nude-400">Etiquetas</span>
+              {a.tags.map((t) => (
+                <span
+                  key={t}
+                  className="rounded-full border border-nude-200 bg-cream-100 px-3 py-1 text-xs text-nude-500"
+                >
+                  {t}
+                </span>
+              ))}
             </div>
           )}
 
