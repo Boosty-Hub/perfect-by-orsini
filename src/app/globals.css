@@ -1,0 +1,107 @@
+@import "tailwindcss";
+
+/*
+  Brand palette: warm near-black (charcoal) + beige/nude + cream/white — matches the
+  real perfectbyorsini.com (NOT purple). The dark tokens keep their legacy names
+  (indigo/navy) so existing classes work, but now hold charcoal values.
+*/
+@theme {
+  /* ---- Dark (warm charcoal → near-black) ---- */
+  --color-ink-950: #0c0a09;
+  --color-ink-900: #17130f;
+  --color-ink-800: #2a2420;
+
+  /* legacy aliases mapped to the charcoal scale */
+  --color-indigo-950: #0c0a09;
+  --color-indigo-900: #17130f; /* primary dark — navbar, footer, dark sections */
+  --color-indigo-800: #2a2420;
+  --color-navy-900: #100d0b;
+  --color-navy-800: #0a0807;
+
+  /* ---- Warm nude / beige accent ---- */
+  --color-nude-200: #ece4dd;
+  --color-nude-300: #c9b5a7; /* primary warm accent (buttons) */
+  --color-nude-400: #b69f8f;
+  --color-nude-500: #6f5f52;
+
+  --color-peach-300: #e6c3a6;
+
+  /* ---- Cream / white ---- */
+  --color-cream-50: #faf7f3;
+  --color-cream-100: #efe9e2;
+
+  --color-slate-500: #8a7f76;
+
+  /* semantic aliases */
+  --color-brand: var(--color-ink-900);
+  --color-accent: var(--color-nude-300);
+
+  /* ---- Typography ---- */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-gilda), Georgia, "Times New Roman", serif;
+}
+
+:root {
+  --background: var(--color-cream-50);
+  --foreground: var(--color-ink-900);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+
+/* Animated underline that grows from the left on hover (for nav/menu words). */
+.link-underline {
+  position: relative;
+}
+.link-underline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  height: 1px;
+  width: 100%;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.link-underline:hover::after {
+  transform: scaleX(1);
+}
+
+/* Visible focus ring for keyboard users (a11y). */
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible,
+[tabindex]:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--color-nude-300);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

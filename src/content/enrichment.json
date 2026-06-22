@@ -1,0 +1,926 @@
+[
+  {
+    "slug": "rinoplastia",
+    "whatItIs": "La rinoplastia es una cirugía que remodela la estructura ósea y cartilaginosa de la nariz para mejorar su forma, proporción y, en muchos casos, la función respiratoria. El Dr. Omar Orsini la realiza para armonizar la nariz con el resto del rostro, corrigiendo el dorso, la punta o las fosas nasales. La intervención dura habitualmente entre 1 y 3 horas y se efectúa bajo anestesia general. En la mayoría de los casos es ambulatoria o requiere una noche de hospitalización. Tras la cirugía se coloca una férula que se retira aproximadamente a la semana. La inflamación inicial cede en 1 a 2 semanas, aunque el resultado se define de forma progresiva. La nariz continúa desinflamándose durante meses y la forma definitiva suele apreciarse entre los 6 y 12 meses. Cada plan se diseña según la anatomía y los objetivos de cada paciente.",
+    "candidates": "Es buen candidato la persona adulta, con desarrollo facial completo, en buen estado de salud general y con expectativas realistas sobre el cambio que desea en su nariz. También quienes presentan dificultad respiratoria asociada a desviaciones estructurales. No suele recomendarse en pacientes con enfermedades no controladas, trastornos de cicatrización, consumo activo de tabaco sin pausa previa, o expectativas poco realistas. Tampoco en quienes aún no han completado el crecimiento facial. La motivación debe ser personal, no por presión externa. Una evaluación médica detallada con el Dr. Orsini, que incluye estudio de la anatomía nasal y de la respiración, confirma si la rinoplastia es la opción adecuada para cada paciente.",
+    "recovery": "El reposo relativo se recomienda durante los primeros 7 a 10 días. La férula nasal se retira habitualmente alrededor de la primera semana, junto con los puntos externos si los hubiera. Los moretones y la mayor inflamación ceden, en la mayoría de los casos, entre 1 y 2 semanas, momento en que muchos pacientes retoman actividades ligeras y sociales. El ejercicio suave puede reanudarse hacia las 3 a 4 semanas, y la actividad física intensa o de contacto suele posponerse entre 6 y 8 semanas. Conviene evitar el sol directo y el uso de lentes apoyados sobre la nariz durante varias semanas. La inflamación residual disminuye de forma gradual; el resultado se consolida progresivamente y la forma definitiva suele apreciarse entre los 6 y 12 meses tras la cirugía.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "1-3 horas"
+      },
+      {
+        "label": "Anestesia",
+        "value": "General"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio / 1 noche"
+      },
+      {
+        "label": "Recuperación",
+        "value": "1-2 semanas"
+      },
+      {
+        "label": "Retiro de férula",
+        "value": "Aprox. 1 semana"
+      },
+      {
+        "label": "Resultado definitivo",
+        "value": "6-12 meses"
+      }
+    ]
+  },
+  {
+    "slug": "mamoplastia",
+    "whatItIs": "La mamoplastia es una cirugía mamaria que modifica el tamaño, la forma o la posición de las mamas. Incluye el aumento con implantes, la reducción de mamas voluminosas y el levantamiento (mastopexia) de tejido descendido. El Dr. Omar Orsini planifica cada caso según la anatomía, los objetivos y la proporción corporal de la paciente. El procedimiento se realiza habitualmente bajo anestesia general y dura, en la mayoría de los casos, entre 1 y 3 horas. Suele ser ambulatorio o con una noche de hospitalización. Las incisiones se ubican de forma discreta, según la técnica elegida. La paciente regresa a actividades ligeras en pocos días y a su rutina habitual en una a dos semanas. El resultado inicial se aprecia pronto, pero las mamas se asientan y adoptan su forma definitiva a lo largo de tres a seis meses, cuando se reduce la inflamación y las cicatrices maduran progresivamente.",
+    "candidates": "Es buena candidata la mujer con salud general estable, expectativas realistas y un peso corporal mantenido, que desea aumentar, reducir o levantar sus mamas, o corregir asimetrías. También quienes buscan restaurar el volumen tras embarazos o pérdida de peso. No suele recomendarse en fumadoras activas, durante el embarazo o la lactancia reciente, ni en personas con enfermedades no controladas o expectativas poco realistas. Conviene posponerla si se planean embarazos próximos, ya que pueden alterar el resultado. La edad mínima y el tipo de técnica se valoran individualmente. Una evaluación médica con el Dr. Orsini, que incluye historia clínica y examen físico, confirma si la mamoplastia es adecuada para cada paciente.",
+    "recovery": "Durante los primeros 3 a 5 días se recomienda reposo relativo, con molestias e inflamación que se controlan con medicación. Se utiliza un sostén quirúrgico o banda de soporte por varias semanas, según indicación. Las actividades ligeras se retoman habitualmente entre los 5 y 7 días. Cuando hay puntos que requieren retiro, suele hacerse alrededor de la primera o segunda semana. El retorno al trabajo de oficina ocurre, en la mayoría de los casos, en una a dos semanas. El ejercicio suave se reinicia hacia las 3 a 4 semanas y el esfuerzo intenso o de tren superior se posterga unas 6 semanas. La inflamación disminuye progresivamente y las mamas se asientan entre los 3 y 6 meses, momento en que se aprecia la forma definitiva y las cicatrices continúan madurando hasta cerca del año.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "1-3 horas"
+      },
+      {
+        "label": "Anestesia",
+        "value": "General"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio / 1 noche"
+      },
+      {
+        "label": "Recuperación",
+        "value": "1-2 semanas"
+      },
+      {
+        "label": "Ejercicio",
+        "value": "Desde 4-6 semanas"
+      },
+      {
+        "label": "Resultados definitivos",
+        "value": "3-6 meses"
+      }
+    ]
+  },
+  {
+    "slug": "lipoescultura",
+    "whatItIs": "La lipoescultura es una cirugía de contorno corporal que extrae grasa localizada y esculpe la silueta con mayor definición. Mediante cánulas finas, el cirujano aspira los depósitos de grasa resistentes a dieta y ejercicio en zonas como abdomen, flancos, espalda o muslos. A diferencia de la liposucción tradicional, busca remodelar de forma artística las curvas y, en ciertos casos, reinyectar grasa para realzar áreas como glúteos. El procedimiento dura habitualmente entre 1 y 3 horas, según el número de regiones tratadas. Se realiza con anestesia general o regional, casi siempre de forma ambulatoria o con una noche de hospitalización. La recuperación inicial toma de 1 a 2 semanas. Se usa una faja compresiva durante varias semanas para reducir la inflamación. Los primeros cambios se notan pronto, pero el resultado definitivo se consolida en la mayoría de los casos entre 3 y 6 meses, cuando el edema desaparece por completo.",
+    "candidates": "Es buen candidato la persona con peso estable, buena salud general y depósitos de grasa localizada que no responden a dieta ni ejercicio. La piel con buena elasticidad favorece un contorno más firme tras la cirugía. También ayuda mantener expectativas realistas, pues la lipoescultura modela la silueta pero no es un método para adelgazar ni reemplaza hábitos saludables. No es ideal para quienes presentan obesidad importante, flacidez cutánea marcada, tabaquismo activo o enfermedades crónicas no controladas como diabetes o trastornos de coagulación. El embarazo y la lactancia también posponen el procedimiento. Una evaluación médica con el Dr. Orsini confirma la idoneidad de cada paciente y define el plan más seguro.",
+    "recovery": "Los primeros días requieren reposo relativo y uso continuo de una faja compresiva, habitualmente durante 4 a 6 semanas, para controlar la inflamación y favorecer la adaptación de la piel. Las molestias y los hematomas suelen mejorar en la primera o segunda semana. Si hay puntos, se retiran alrededor de los 7 a 14 días. La actividad ligera y el trabajo de escritorio se retoman, en la mayoría de los casos, entre 1 y 2 semanas. El ejercicio de bajo impacto se reintroduce de forma progresiva tras 3 a 4 semanas, y el entrenamiento intenso después de 6 a 8 semanas, siempre con autorización médica. Los drenajes linfáticos pueden acelerar la reducción del edema. El contorno definitivo se consolida habitualmente entre los 3 y 6 meses, cuando la hinchazón residual desaparece y los tejidos terminan de asentarse.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "1-3 horas"
+      },
+      {
+        "label": "Anestesia",
+        "value": "General o regional"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio / 1 noche"
+      },
+      {
+        "label": "Recuperación",
+        "value": "1-2 semanas"
+      },
+      {
+        "label": "Faja compresiva",
+        "value": "4-6 semanas"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 meses"
+      }
+    ]
+  },
+  {
+    "slug": "aumento-de-gluteos",
+    "whatItIs": "El aumento de glúteos con grasa propia es una cirugía que mejora el volumen, la forma y la proyección del glúteo usando la grasa del propio paciente. Primero se obtiene grasa de otras zonas mediante lipoescultura, habitualmente abdomen, cintura o espalda. Luego se procesa y se reinyecta de manera controlada en el glúteo. Así se logra un resultado natural y, a la vez, se afina el contorno corporal. El procedimiento se realiza en quirófano, con anestesia general, y suele durar entre 2 y 4 horas. En la mayoría de los casos es ambulatorio o requiere una noche de hospitalización. El reposo relativo dura pocos días y se usa faja en el postoperatorio. La actividad ligera se retoma de forma progresiva en 1 a 2 semanas. Parte de la grasa reinjertada se reabsorbe los primeros meses; el contorno definitivo se aprecia, en general, hacia los 3 a 6 meses.",
+    "candidates": "Eres buen candidato si deseas más proyección o una mejor forma del glúteo y cuentas con grasa suficiente en otras zonas para reubicarla. También ayuda gozar de buena salud general, mantener un peso estable y tener expectativas realistas. No es la opción ideal si tienes muy poca grasa corporal disponible para el injerto, si fumas de forma activa o si presentas condiciones de salud no controladas. En esos casos pueden valorarse alternativas o cuidados previos. Una evaluación médica confirma si esta técnica es la indicada para ti.",
+    "recovery": "Los primeros días se indica reposo relativo y se evita la presión directa sobre los glúteos durante las primeras 2 a 3 semanas, por lo que conviene no sentarse de forma prolongada ni dormir boca arriba. La faja se usa habitualmente entre 4 y 6 semanas para favorecer el contorno. Si hay puntos que retirar, suelen quitarse hacia los 7 a 14 días. La actividad ligera se retoma de manera progresiva en 1 a 2 semanas. El ejercicio de mayor impacto se reincorpora, en general, después de 4 a 6 semanas, según la indicación médica. La inflamación cede a lo largo de las semanas y parte de la grasa se reabsorbe los primeros meses. El resultado se consolida, habitualmente, entre los 3 y los 6 meses.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "2-4 horas"
+      },
+      {
+        "label": "Anestesia",
+        "value": "General"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio / 1 noche"
+      },
+      {
+        "label": "Recuperación",
+        "value": "1-2 semanas"
+      },
+      {
+        "label": "Uso de faja",
+        "value": "4-6 semanas"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 meses"
+      }
+    ]
+  },
+  {
+    "slug": "blefaroplastia",
+    "whatItIs": "La blefaroplastia es una cirugía que corrige el exceso de piel, grasa y músculo en los párpados superiores, inferiores o ambos. Su objetivo es rejuvenecer la mirada y, en algunos casos, mejorar el campo visual cuando la piel sobrante cubre el ojo. El procedimiento dura habitualmente entre 1 y 2 horas, según se intervengan uno o ambos párpados. Suele realizarse con anestesia local y sedación, aunque en casos amplios puede emplearse anestesia general. Las incisiones se ocultan en el pliegue natural del párpado superior o por dentro del párpado inferior, dejando cicatrices muy discretas. La mayoría de los pacientes regresa a casa el mismo día, en régimen ambulatorio. La inflamación y los moratones disminuyen de forma notable en 1 a 2 semanas. El resultado se aprecia de manera progresiva y se consolida entre los 3 y 6 meses, ofreciendo una expresión más descansada y natural.",
+    "candidates": "Es buen candidato la persona adulta, con buen estado de salud general, que presenta exceso de piel, bolsas de grasa o párpados caídos que envejecen la mirada o limitan la visión. También quienes desean un aspecto más descansado y tienen expectativas realistas. No suele ser ideal para personas con enfermedades oculares activas, ojo seco severo, glaucoma no controlado, problemas tiroideos descompensados o trastornos de coagulación. El tabaquismo y ciertas afecciones crónicas pueden aumentar riesgos y retrasar la cicatrización. En estos casos conviene estabilizar la condición antes de operar. Una evaluación médica personalizada con el Dr. Orsini, que incluye revisión oftalmológica cuando es necesaria, confirma la idoneidad de cada paciente.",
+    "recovery": "El reposo relativo se recomienda durante los primeros 3 a 5 días, manteniendo la cabeza elevada y aplicando frío para reducir la inflamación. Los puntos suelen retirarse entre los días 5 y 7. La actividad ligera y el trabajo de oficina pueden retomarse, en la mayoría de los casos, hacia la primera o segunda semana, cuando los moratones han cedido. El maquillaje correctivo ayuda a disimular cualquier coloración residual. El ejercicio físico intenso y el levantamiento de peso deben evitarse durante 3 a 4 semanas. Es aconsejable usar lentes de sol y proteger los ojos del sol y el viento. Las cicatrices maduran y palidecen de forma progresiva. El resultado final, con una mirada más fresca y natural, se consolida habitualmente entre los 3 y 6 meses tras la cirugía.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "1-2 horas"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Local con sedación / general"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      },
+      {
+        "label": "Retiro de puntos",
+        "value": "5-7 días"
+      },
+      {
+        "label": "Recuperación",
+        "value": "1-2 semanas"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 meses"
+      }
+    ]
+  },
+  {
+    "slug": "otoplastia",
+    "whatItIs": "La otoplastia es una cirugía que corrige la forma, el tamaño o la posición de las orejas. Se utiliza, sobre todo, para acercar al cráneo las orejas prominentes o \"en asa\". También remodela el cartílago y mejora pliegues poco definidos. El Dr. Omar Orsini realiza el procedimiento mediante incisiones discretas, habitualmente detrás de la oreja. La intervención dura entre 1 y 3 horas. En adultos suele emplearse anestesia local con sedación; en niños, anestesia general. Por lo general es ambulatoria, sin pernoctar en clínica. Tras la cirugía se coloca un vendaje de protección durante varios días. La inflamación inicial cede en una a dos semanas. El cambio de posición de las orejas se aprecia desde el primer momento, aunque el resultado definitivo se consolida en el transcurso de 2 a 3 meses, cuando el tejido cicatriza por completo. Las cicatrices quedan ocultas en el pliegue posterior.",
+    "candidates": "Son buenos candidatos las personas con orejas prominentes, asimétricas o de cartílago malformado que afecten su autoestima. En niños suele plantearse a partir de los 5 a 6 años, cuando el cartílago ya está casi desarrollado. El paciente, o sus padres, deben tener expectativas realistas y buen estado de salud general. No es ideal para quienes presentan infecciones activas en la zona, ciertas alteraciones de la coagulación o enfermedades no controladas. Los fumadores deben suspender el tabaco antes y después para favorecer la cicatrización. Una evaluación médica con el Dr. Orsini confirma la idoneidad de cada caso y define la técnica más adecuada.",
+    "recovery": "El vendaje compresivo se mantiene durante los primeros 5 a 7 días para proteger las orejas. Luego suele indicarse una banda elástica nocturna por 2 a 4 semanas. Si se usan puntos no reabsorbibles, se retiran hacia los 7 a 10 días. Las molestias y la inflamación son moderadas y disminuyen en la primera o segunda semana. La mayoría de las personas retoma actividades ligeras o escolares en unos 5 a 7 días. Conviene evitar el ejercicio intenso, los deportes de contacto y la presión sobre las orejas durante 4 a 6 semanas. Se recomienda dormir boca arriba en las primeras semanas. La inflamación residual cede progresivamente y el resultado se consolida entre los 2 y 3 meses. Las indicaciones del Dr. Orsini orientan cada etapa.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "1-3 horas"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Local con sedación o general (niños)"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      },
+      {
+        "label": "Recuperación",
+        "value": "1-2 semanas"
+      },
+      {
+        "label": "Retorno a ejercicio",
+        "value": "4-6 semanas"
+      },
+      {
+        "label": "Resultados definitivos",
+        "value": "2-3 meses"
+      }
+    ]
+  },
+  {
+    "slug": "lifting-facial",
+    "whatItIs": "El lifting facial quirúrgico es una cirugía que reposiciona los tejidos del rostro y el cuello para corregir la flacidez asociada al envejecimiento. El procedimiento reubica el músculo y la piel descolgados, define el contorno mandibular y suaviza los pliegues profundos. Se realiza habitualmente bajo anestesia general o sedación con anestesia local. La intervención dura entre 3 y 5 horas, según la técnica y las zonas tratadas. El Dr. Omar Orsini ubica las incisiones alrededor de la oreja para disimularlas. La inflamación y los hematomas son normales durante las primeras 2 semanas. En la mayoría de los casos puede ser ambulatorio o requerir una noche de hospitalización. El resultado inicial se aprecia al desaparecer la hinchazón, hacia la cuarta o sexta semana. El aspecto definitivo, más natural y armónico, se consolida entre los 3 y 6 meses. Los resultados son duraderos, aunque el rostro continúa envejeciendo de forma natural con el tiempo.",
+    "candidates": "Es buen candidato la persona con flacidez facial o cervical moderada a marcada, descenso de mejillas y pliegues acentuados, que goza de buena salud general y mantiene expectativas realistas. La piel con cierta elasticidad favorece un resultado más natural. No es candidato ideal quien presenta enfermedades no controladas, trastornos de coagulación, tabaquismo activo intenso o expectativas desproporcionadas. Las personas con flacidez muy leve pueden beneficiarse antes de alternativas menos invasivas, como tratamientos de radiofrecuencia. La edad por sí sola no es una contraindicación. Una evaluación médica personalizada con el Dr. Orsini confirma la idoneidad del paciente, define la técnica adecuada y revisa los antecedentes de salud.",
+    "recovery": "El reposo relativo se recomienda durante los primeros 7 a 10 días, con la cabeza elevada para reducir la inflamación. Los hematomas y la hinchazón disminuyen de forma notable hacia la segunda semana. El retiro de puntos se realiza habitualmente entre los días 7 y 14, según la cicatrización. El retorno a actividades ligeras y al trabajo de oficina suele ocurrir a las 2 o 3 semanas. El ejercicio intenso y el levantamiento de peso se retoman alrededor de la cuarta a sexta semana, con autorización médica. La sensibilidad alterada y la tirantez son normales y mejoran progresivamente. Las cicatrices maduran y se aclaran durante varios meses. El resultado se consolida de manera natural entre los 3 y 6 meses. Los controles postoperatorios con el Dr. Orsini acompañan cada etapa de la recuperación.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "3-5 horas"
+      },
+      {
+        "label": "Anestesia",
+        "value": "General o sedación"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio / 1 noche"
+      },
+      {
+        "label": "Recuperación",
+        "value": "2-3 semanas"
+      },
+      {
+        "label": "Retiro de puntos",
+        "value": "7-14 días"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 meses"
+      }
+    ]
+  },
+  {
+    "slug": "bioestimuladores",
+    "whatItIs": "La bioestimulación de colágeno es un tratamiento inyectable que activa la producción natural de colágeno y elastina de la piel. A diferencia de un relleno tradicional, no aporta volumen de forma inmediata, sino que estimula al organismo a regenerar su propio tejido de soporte. Se realiza de manera ambulatoria, sin hospitalización. La sesión dura habitualmente entre 30 y 60 minutos y se aplica con anestesia tópica para mayor confort. No requiere reposo prolongado: la mayoría retoma sus actividades el mismo día. El protocolo suele incluir entre 1 y 3 sesiones, separadas por 4 a 6 semanas. Los resultados son progresivos: comienzan a notarse a las 4 a 6 semanas y se consolidan a lo largo de 3 a 6 meses, a medida que se forma el nuevo colágeno. En la mayoría de los casos el efecto se mantiene durante muchos meses.",
+    "candidates": "Es ideal para personas que notan flacidez leve a moderada, pérdida de firmeza, piel apagada o líneas finas y desean un rejuvenecimiento natural y progresivo, sin cambios bruscos. Es una buena opción para mejorar la calidad de la piel del rostro, cuello, abdomen, glúteos, brazos o manos. No se recomienda durante el embarazo o la lactancia, en presencia de infecciones activas en la zona, ciertas enfermedades autoinmunes o antecedentes de cicatrización anómala. Tampoco sustituye una cirugía cuando hay flacidez muy avanzada. La idoneidad definitiva, según tu salud y tus objetivos, se confirma en una evaluación médica.",
+    "recovery": "La recuperación suele ser sencilla y compatible con la vida diaria; no requiere reposo prolongado. Tras la sesión es posible notar leve enrojecimiento, hinchazón o pequeños hematomas, que normalmente disminuyen en 2 a 5 días. Las actividades ligeras y el trabajo de oficina pueden retomarse el mismo día. Se recomienda evitar ejercicio intenso, sauna, calor extremo y exposición solar directa durante 3 a 7 días. En algunos protocolos se indica masajear suavemente la zona durante los primeros días. Los resultados se aprecian de forma gradual: las primeras mejoras aparecen a las 4 a 6 semanas y la consolidación del nuevo colágeno se completa a lo largo de 3 a 6 meses. El plan suele incluir de 1 a 3 sesiones separadas por 4 a 6 semanas, con posibles retoques de mantenimiento que indicará el especialista.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "30-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Tópica"
+      },
+      {
+        "label": "Sesiones",
+        "value": "1-3, cada 4-6 semanas"
+      },
+      {
+        "label": "Recuperación",
+        "value": "2-5 días"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 meses (progresivos)"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "celulitis-y-flacidez",
+    "whatItIs": "El tratamiento de celulitis y flacidez es un protocolo médico-estético corporal que mejora la textura, la firmeza y el tono de la piel sin cirugía. La celulitis es la alteración con aspecto de \"piel de naranja\", ligada a grasa subcutánea, retención de líquidos y circulación; la flacidez es la pérdida de firmeza por menor colágeno y elastina. Combina tecnologías como radiofrecuencia, estímulo de colágeno, drenaje y reafirmación en muslos, glúteos, abdomen y brazos. Cada sesión dura habitualmente entre 30 y 60 minutos, no requiere anestesia y permite retomar la rutina el mismo día. Suelen indicarse varias sesiones, con frecuencia semanal o quincenal según el plan. Los primeros cambios de textura se aprecian en pocas semanas, y el resultado se consolida de forma progresiva a lo largo de 2 a 3 meses. En la mayoría de los casos funciona como complemento de hábitos saludables.",
+    "candidates": "Es ideal para personas con celulitis visible, retención de líquidos, pérdida de firmeza o piel laxa que buscan mejorar textura y tono sin cirugía. También resulta una buena opción para quienes desean acompañar cambios de peso o el postparto con un plan de reafirmación. No suele recomendarse durante el embarazo o la lactancia, ni en presencia de infecciones cutáneas, ciertos dispositivos médicos o problemas de salud no controlados. Tampoco sustituye una dieta equilibrada ni el ejercicio. El candidato adecuado se confirma siempre en una evaluación médica, donde se valoran tu salud, expectativas y las zonas a tratar.",
+    "recovery": "Los protocolos para celulitis y flacidez son poco o nada invasivos, por lo que habitualmente permiten retomar las actividades habituales el mismo día, sin reposo. Es normal percibir un ligero enrojecimiento o calor en la zona tratada, que suele ceder en pocas horas. La actividad ligera puede reanudarse de inmediato y el ejercicio, salvo indicación distinta, en 1 a 2 días. No hay puntos que retirar. El plan completo contempla varias sesiones, con frecuencia semanal o quincenal a lo largo de 1 a 3 meses. Los resultados son progresivos: los primeros cambios de textura se notan en pocas semanas y la firmeza se consolida hacia los 2 a 3 meses. La constancia y el mantenimiento periódico son clave para sostener la mejoría; tu especialista indicará el número de sesiones y los cuidados según tu evolución.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "30-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "No requiere"
+      },
+      {
+        "label": "Sesiones",
+        "value": "Varias (plan personalizado)"
+      },
+      {
+        "label": "Frecuencia",
+        "value": "Semanal o quincenal"
+      },
+      {
+        "label": "Downtime",
+        "value": "Mínimo / mismo día"
+      },
+      {
+        "label": "Resultados",
+        "value": "Progresivos, 2-3 meses"
+      }
+    ]
+  },
+  {
+    "slug": "estrias-y-cicatrices",
+    "whatItIs": "El tratamiento de estrías y cicatrices es un conjunto de procedimientos médico-estéticos que atenúan estas marcas estimulando la producción natural de colágeno y elastina. Las estrías aparecen cuando las fibras de la piel se distienden por cambios rápidos de peso, embarazo, crecimiento o factores hormonales. Las cicatrices resultan de heridas, acné, quemaduras o cirugías. Según el caso, se combinan microinducción de colágeno, láser fraccionado y protocolos tópicos o de infiltración. Cada sesión dura habitualmente entre 30 y 60 minutos. Se realiza de forma ambulatoria, con anestesia tópica en crema o frío local. La piel se recupera en pocos días. Suelen requerirse entre 3 y 6 sesiones, espaciadas cada 3 a 4 semanas. Los resultados son progresivos: las primeras mejoras de textura y color se notan a partir de la segunda o tercera sesión, y se consolidan a los 3 a 6 meses, cuando madura el colágeno nuevo.",
+    "candidates": "Es una buena opción para personas que desean atenuar estrías rojas o blancas, así como cicatrices atróficas (hundidas), hipertróficas (elevadas) o queloides. También conviene a quienes notan cambios de textura tras el embarazo, el acné o una cirugía previa. No suele recomendarse durante el embarazo, ante infecciones activas en la zona, o con la piel bronceada de forma reciente. Las personas con tendencia a queloides requieren un abordaje especialmente prudente. La evaluación médica con el Dr. Omar Orsini confirma la indicación según el color, la antigüedad, la profundidad de cada marca y el tipo de piel.",
+    "recovery": "La recuperación suele ser ágil y depende de la técnica utilizada. Tras cada sesión es habitual un enrojecimiento o sensibilidad que cede en 24 a 72 horas; con láser fraccionado puede haber descamación leve durante 3 a 5 días. La mayoría de las personas retoma su actividad cotidiana el mismo día. Conviene mantener hidratación constante y fotoprotección estricta durante 2 a 4 semanas. El ejercicio intenso, el sol directo y los exfoliantes se evitan unos 7 a 10 días. Las sesiones se espacian cada 3 a 4 semanas, con un plan habitual de 3 a 6 sesiones. Las mejoras de textura y color se aprecian desde la segunda o tercera sesión y se consolidan a los 3 a 6 meses, cuando madura el colágeno nuevo. El ritmo exacto se define en tu evaluación.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "30-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Tópica / frío local"
+      },
+      {
+        "label": "Sesiones",
+        "value": "3-6, cada 3-4 semanas"
+      },
+      {
+        "label": "Recuperación",
+        "value": "Actividad el mismo día"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 meses"
+      },
+      {
+        "label": "Modalidad",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "mesoterapia-y-vitaminas",
+    "whatItIs": "La mesoterapia con vitaminas es un tratamiento médico-estético que aplica microinyecciones superficiales de un cóctel de activos biocompatibles (vitaminas, minerales, aminoácidos y antioxidantes) en la dermis o el tejido subcutáneo. Al depositar los nutrientes justo en la zona a tratar, se busca estimular la microcirculación, favorecer la regeneración de los tejidos y mejorar la hidratación local. Cada sesión dura habitualmente entre 20 y 45 minutos. Suele realizarse con anestesia tópica en crema y de forma ambulatoria, sin requerir reposo. La fórmula se personaliza en cada caso. En la mayoría de los casos se plantea un esquema de 4 a 8 sesiones, con frecuencia semanal o quincenal, seguido de un plan de mantenimiento. Los resultados se aprecian de forma progresiva, habitualmente desde la segunda o tercera sesión, y se consolidan a lo largo de varias semanas.",
+    "candidates": "Es una buena opción para personas que notan la piel apagada, deshidratada o con falta de luminosidad, o que desean apoyar el cuidado de zonas corporales con tendencia a la celulitis o a la acumulación localizada. También resulta atractiva para quienes prefieren tratamientos de baja invasividad, con sesiones breves y sin pausas largas. No suele indicarse durante el embarazo o la lactancia, ni en personas con infecciones activas en la piel, alergias a los componentes o trastornos de la coagulación. La indicación definitiva, el tipo de cóctel y el número de sesiones se determinan en una evaluación médica con el Dr. Omar Orsini, quien confirma la idoneidad de cada paciente.",
+    "recovery": "La recuperación suele ser sencilla y la mayoría de las personas retoman sus actividades el mismo día, sin reposo. Tras la sesión es normal observar enrojecimiento leve, pequeñas marcas en los puntos de aplicación o algún hematoma transitorio, que tienden a desaparecer en 2 a 5 días. Durante las primeras 24 horas recomendamos evitar la exposición solar directa, el maquillaje y la actividad física intensa, además de mantener una buena hidratación. El ejercicio se retoma habitualmente a las 24 a 48 horas. Las sesiones se espacian cada 1 o 2 semanas y, por lo general, se completan en 4 a 8 sesiones. Los resultados se aprecian de forma progresiva y se consolidan a lo largo de 1 a 3 meses, sosteniéndose con un plan de mantenimiento individualizado.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "20-45 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Tópica (crema)"
+      },
+      {
+        "label": "Sesiones",
+        "value": "4-8, cada 1-2 semanas"
+      },
+      {
+        "label": "Recuperación",
+        "value": "Mismo día, sin reposo"
+      },
+      {
+        "label": "Resultados",
+        "value": "1-3 meses (progresivos)"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "peeling-facial",
+    "whatItIs": "El peeling facial es un tratamiento que renueva la piel del rostro mediante la aplicacion controlada de agentes exfoliantes. Estos compuestos eliminan las capas superficiales de la epidermis y estimulan la regeneracion celular. Se utiliza para mejorar manchas, textura irregular, lineas finas, marcas de acne y opacidad. En Perfect by Dr. Orsini se realiza de forma ambulatoria, sin anestesia general; habitualmente solo se aplica una crema anestesica en peelings medios. La sesion dura entre 30 y 60 minutos. Segun la profundidad, se clasifica en superficial, medio o profundo. Durante los dias siguientes la piel puede descamarse de manera gradual. Los peelings superficiales suelen requerir varias sesiones, espaciadas cada 2 a 4 semanas. En la mayoria de los casos los primeros resultados se aprecian entre 1 y 3 semanas, y el efecto se consolida con el ciclo completo. Una valoracion previa define el tipo de peeling adecuado para cada piel.",
+    "candidates": "Es buen candidato quien presenta manchas, fotoenvejecimiento, textura irregular, poros dilatados, lineas finas o marcas leves de acne y desea renovar la piel sin cirugia. Tambien personas con tono apagado que buscan luminosidad. No suele recomendarse en embarazo o lactancia, infecciones o lesiones activas en la zona, herpes facial reciente, dermatitis no controlada, ni tras exposicion solar intensa. Las pieles muy oscuras requieren evaluacion cuidadosa por el riesgo de cambios en la pigmentacion. Quienes usan ciertos medicamentos o han tenido procedimientos recientes deben informarlo. Una evaluacion medica con el especialista confirma la idoneidad y define la profundidad y el protocolo mas seguro para cada caso.",
+    "recovery": "La recuperacion depende de la profundidad del peeling. En los superficiales no suele requerirse reposo y se retoma la actividad habitual el mismo dia, con enrojecimiento leve durante 1 a 3 dias. En peelings medios la piel se enrojece y descama entre 3 y 7 dias, con retorno a la vida social habitualmente en 1 semana. Durante los primeros dias debe evitarse el sol directo, el maquillaje y exfoliar o frotar la piel. El ejercicio intenso y el calor (sauna, vapor) se posponen entre 5 y 7 dias. Es indispensable usar protector solar e hidratacion constante. El resultado se aprecia de forma progresiva entre 1 y 3 semanas, y se consolida al completar el ciclo de sesiones, habitualmente a lo largo de 1 a 3 meses segun el plan indicado.",
+    "keyFacts": [
+      {
+        "label": "Duracion de la sesion",
+        "value": "30-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Topica o sin anestesia"
+      },
+      {
+        "label": "Sesiones",
+        "value": "1-6 segun profundidad"
+      },
+      {
+        "label": "Frecuencia",
+        "value": "Cada 2-4 semanas"
+      },
+      {
+        "label": "Downtime",
+        "value": "1-7 dias segun tipo"
+      },
+      {
+        "label": "Resultados",
+        "value": "Progresivos en 1-3 meses"
+      }
+    ]
+  },
+  {
+    "slug": "plasma-rico-en-plaquetas",
+    "whatItIs": "El plasma rico en plaquetas (PRP) es un tratamiento de medicina regenerativa que utiliza un concentrado de tus propias plaquetas para estimular la reparación natural de los tejidos. A partir de una pequeña muestra de sangre, se centrifuga el plasma para separar las plaquetas, ricas en factores de crecimiento. Luego se aplica en la zona a tratar mediante microinyecciones o microneedling. La sesión completa dura habitualmente entre 45 y 60 minutos y se realiza de forma ambulatoria, sin anestesia general. Cuando es necesario, se usa anestesia tópica para mayor confort. Al provenir de tu propio organismo, es un tratamiento autólogo y biocompatible. Es de baja complejidad y suele permitir retomar la rutina el mismo día. Los resultados son progresivos: en la mayoría de los casos comienzan a percibirse entre la tercera y la sexta semana, con mejoría continua durante los meses siguientes. Habitualmente se plantea un esquema de varias sesiones.",
+    "candidates": "El PRP es ideal para personas que buscan revitalizar la piel o mejorar la salud del cabello de forma natural, sin sustancias externas. Suele recomendarse a quienes notan pérdida de luminosidad, líneas finas, textura irregular o falta de firmeza en rostro, cuello o manos; y a quienes desean dar densidad al cabello en fases tempranas de debilitamiento. También complementa otros tratamientos faciales o capilares. No es la opción más adecuada para personas con ciertos trastornos de la coagulación, infecciones activas en la zona o embarazo, entre otras situaciones. La indicación final siempre se confirma en una evaluación médica con el Dr. Omar Orsini, considerando tu historia clínica y tus objetivos.",
+    "recovery": "El PRP es un procedimiento de baja complejidad que suele permitir retomar la rutina el mismo día, sin reposo prolongado. Tras la aplicación es habitual notar enrojecimiento leve, ligera hinchazón o pequeños hematomas, que tienden a resolverse en uno a tres días. Durante las primeras 24 a 48 horas se recomienda evitar la exposición solar directa, el maquillaje inmediato y la actividad física intensa, además de mantener buena hidratación y fotoprotección. La actividad ligera puede retomarse el mismo día y el ejercicio habitualmente a las 48 horas. Los resultados son progresivos: suelen comenzar a percibirse entre la tercera y la sexta semana, con mejoría continua en los meses siguientes. La consolidación del resultado se logra tras completar el esquema de sesiones indicado, generalmente a lo largo de varios meses.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "45-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Tópica (según necesidad)"
+      },
+      {
+        "label": "Downtime",
+        "value": "1-3 días"
+      },
+      {
+        "label": "Sesiones",
+        "value": "Esquema de varias sesiones"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 semanas, progresivos"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "reduccion-de-grasa",
+    "whatItIs": "La reducción de grasa localizada es un procedimiento estético no quirúrgico que disminuye los depósitos de grasa en zonas puntuales y mejora la definición corporal. Equipos médicos como radiofrecuencia, campos electromagnéticos y mesoterapia actúan sobre las células adiposas del abdomen, la cintura, los flancos, los muslos o los brazos. No requiere incisiones, anestesia ni hospitalización. Cada sesión dura habitualmente entre 30 y 60 minutos y se realiza de forma ambulatoria. No se necesita reposo: puedes retomar tu rutina el mismo día. En la mayoría de los casos se planifica un protocolo de 4 a 8 sesiones, con una frecuencia semanal o quincenal. Los resultados aparecen de forma progresiva y suelen consolidarse entre 8 y 12 semanas, conforme el cuerpo elimina de manera natural la grasa tratada. Está pensada para personas con peso estable y grasa rebelde que no responde a dieta y ejercicio.",
+    "candidates": "Es ideal para personas con peso estable y depósitos de grasa localizada que persisten pese a una alimentación equilibrada y actividad física constante. Resulta apropiado para quienes quieren mejorar el contorno de abdomen, cintura, flancos, muslos o brazos sin recurrir a cirugía y prefieren una opción no invasiva. No está indicado como método para bajar de peso ni para tratar la obesidad ni grandes volúmenes de grasa. Tampoco se recomienda durante el embarazo o la lactancia, ni sobre piel con infecciones activas. La evaluación médica con el Dr. Omar Orsini confirma si eres candidato y define el protocolo más adecuado.",
+    "recovery": "La reducción de grasa no invasiva no requiere reposo: puedes retomar tu rutina y tu actividad ligera el mismo día. No hay incisiones ni puntos que retirar. Durante las primeras horas es posible notar enrojecimiento leve, sensibilidad o calor en la zona tratada; estas molestias suelen ceder en uno o dos días. El ejercicio habitual puede reanudarse de inmediato o a las 24-48 horas, según la tecnología empleada y la indicación del especialista. Los resultados aparecen de forma progresiva durante las semanas siguientes y suelen consolidarse entre las 8 y 12 semanas, conforme el cuerpo elimina de manera natural la grasa tratada. Por ello lo habitual es completar un protocolo de 4 a 8 sesiones. Mantener buena hidratación, alimentación equilibrada y actividad física potencia y prolonga los resultados.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "30-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "No requiere"
+      },
+      {
+        "label": "Sesiones",
+        "value": "4-8, semanal o quincenal"
+      },
+      {
+        "label": "Reposo",
+        "value": "Ninguno (ambulatorio)"
+      },
+      {
+        "label": "Recuperación",
+        "value": "1-2 días"
+      },
+      {
+        "label": "Resultados",
+        "value": "8-12 semanas"
+      }
+    ]
+  },
+  {
+    "slug": "regeneracion-capilar",
+    "whatItIs": "La regeneración capilar es un conjunto de tratamientos médico-estéticos que reactivan el ciclo de crecimiento del cabello estimulando los folículos debilitados. Se realiza de forma ambulatoria, sin cirugía, mediante microaplicaciones en el cuero cabelludo. Cada sesión dura habitualmente entre 30 y 60 minutos y emplea anestesia tópica o ningún tipo de anestesia. Las técnicas incluyen factores regenerativos derivados de tu propia sangre, mesoterapia capilar con vitaminas y nutrientes, y protocolos combinados personalizados. El plan suele requerir varias sesiones, con una frecuencia aproximada de cada 3 a 4 semanas en la fase inicial. La recuperación es inmediata: en la mayoría de los casos se retoman las actividades el mismo día. Los resultados son progresivos y comienzan a percibirse habitualmente a partir del tercer o cuarto mes, consolidándose hacia los 6 meses con seguimiento médico. En Perfect by Dr. Orsini, en Caracas, cada protocolo se ajusta tras una evaluación previa.",
+    "candidates": "Es ideal para personas que notan aumento de la caída, pérdida de densidad, cabello más fino o zonas debilitadas, especialmente en etapas tempranas del debilitamiento capilar. También resulta útil para quienes desean acompañar otros cuidados con un enfoque regenerativo. No suele indicarse en quienes presentan folículos ya inactivos por calvicie avanzada, infecciones activas del cuero cabelludo, ciertas alteraciones de la coagulación o procesos inflamatorios sin control. En esos casos pueden valorarse alternativas. El número de sesiones y el protocolo más adecuado se definen siempre tras una evaluación médica con el Dr. Omar Orsini, ya que cada cuero cabelludo responde de manera distinta y esa valoración confirma tu idoneidad.",
+    "recovery": "La recuperación es sencilla y permite retomar las actividades habituales el mismo día. Durante las primeras horas puede notarse leve enrojecimiento o sensibilidad en el cuero cabelludo, que suele disminuir entre las 2 y 24 horas siguientes. Se recomienda evitar lavar el cabello durante las primeras 12 a 24 horas y posponer ejercicio intenso, sauna o exposición solar directa por 24 a 48 horas. No requiere reposo ni retiro de puntos. El esquema habitual contempla varias sesiones cada 3 a 4 semanas en la fase inicial, seguidas de sesiones de mantenimiento. Los resultados son progresivos: la mayoría de las personas percibe mejoras en densidad y fuerza a partir del tercer o cuarto mes, consolidándose hacia los 6 meses con seguimiento médico y cuidados capilares complementarios. El número exacto de sesiones se define en tu evaluación.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "30-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Tópica o ninguna"
+      },
+      {
+        "label": "Sesiones",
+        "value": "Varias, cada 3-4 semanas"
+      },
+      {
+        "label": "Downtime",
+        "value": "Inmediato (mismo día)"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 meses"
+      },
+      {
+        "label": "Modalidad",
+        "value": "Ambulatorio, sin cirugía"
+      }
+    ]
+  },
+  {
+    "slug": "rejuvenecimiento-corporal",
+    "whatItIs": "El rejuvenecimiento corporal es un conjunto de tratamientos médico-estéticos no quirúrgicos que mejoran la firmeza, la textura y la luminosidad de la piel del cuerpo. No es un procedimiento único, sino un enfoque combinado que puede integrar bioestimulación de colágeno, hidratación profunda con mesoterapia y atenuación de manchas. En Perfect by Dr. Orsini se aplica habitualmente en el dorso de las manos, el cuello, los brazos y el abdomen, zonas que reflejan el paso del tiempo. Cada sesión dura entre 30 y 60 minutos, según la técnica y el área tratada. La mayoría de los protocolos se realiza de forma ambulatoria, sin anestesia general; se emplea anestesia tópica cuando es necesaria. Suelen requerirse varias sesiones espaciadas algunas semanas. Los primeros cambios se notan en pocos días, mientras que la mejora de firmeza por colágeno se consolida de forma progresiva en el transcurso de los meses siguientes.",
+    "candidates": "Es ideal para personas que notan pérdida de firmeza, manchas, sequedad o textura irregular en la piel del cuerpo y desean mejorarla sin cirugía. Resulta una buena opción para quienes buscan rejuvenecer el dorso de las manos, suavizar el cuello o uniformar brazos y abdomen, y para quienes quieren coordinar tratamientos faciales y corporales. No suele recomendarse en presencia de infecciones cutáneas activas, durante el embarazo o la lactancia, ni en quienes esperan resultados inmediatos o equivalentes a una cirugía. La evaluación médica en Caracas, realizada por el Dr. Orsini, confirma si eres candidato y define la combinación de tratamientos más adecuada para ti.",
+    "recovery": "Al tratarse de procedimientos no quirúrgicos, la mayoría de los pacientes retoma sus actividades habituales el mismo día o al día siguiente. Es normal un enrojecimiento leve, sensibilidad o pequeños hematomas en las zonas tratadas, que suelen disminuir entre 3 y 7 días. Se recomienda evitar el sol directo, el calor intenso y el ejercicio de alta intensidad durante 24 a 72 horas, según el tratamiento. La actividad ligera puede reanudarse de inmediato. Los protocolos suelen plantearse en varias sesiones separadas por 3 a 4 semanas. Los resultados aparecen de forma progresiva: la luminosidad y la hidratación se aprecian en los primeros días, mientras que la mejora de firmeza por estímulo de colágeno se consolida habitualmente entre los 2 y 6 meses. El Dr. Orsini entrega indicaciones específicas y programa controles para acompañar tu evolución.",
+    "keyFacts": [
+      {
+        "label": "Duración de la sesión",
+        "value": "Entre 30 y 60 minutos, según la técnica y la zona tratada"
+      },
+      {
+        "label": "Tipo de anestesia",
+        "value": "Generalmente sin anestesia; tópica cuando es necesaria"
+      },
+      {
+        "label": "Número de sesiones",
+        "value": "Varias sesiones espaciadas cada 3 a 4 semanas"
+      },
+      {
+        "label": "Recuperación",
+        "value": "Reincorporación el mismo día o al día siguiente; molestias leves de 3 a 7 días"
+      },
+      {
+        "label": "Aparición de resultados",
+        "value": "Luminosidad en pocos días; firmeza por colágeno entre los 2 y 6 meses"
+      },
+      {
+        "label": "Zonas tratadas",
+        "value": "Dorso de las manos, cuello, brazos y abdomen"
+      }
+    ]
+  },
+  {
+    "slug": "relleno-de-labios",
+    "whatItIs": "El relleno de labios es un tratamiento estético no quirúrgico que aporta volumen, hidratación y definición al contorno labial. Se realiza mediante la inyección de ácido hialurónico, una sustancia biocompatible que el cuerpo asimila de forma gradual. El doctor Omar Orsini diseña cada aplicación para armonizar los labios con el resto del rostro, respetando proporciones naturales. La sesión es ambulatoria y dura habitualmente entre 30 y 45 minutos. Se aplica anestesia tópica en crema, y muchos productos ya incluyen anestésico para mayor comodidad. No requiere reposo absoluto. El resultado es visible de inmediato, aunque se aprecia definitivo cuando baja la inflamación inicial, en aproximadamente 1 a 2 semanas. El efecto se mantiene, en la mayoría de los casos, entre 6 y 12 meses, según el metabolismo de cada persona y el producto utilizado. El objetivo es lograr labios definidos, hidratados y equilibrados, sin perder la expresión natural.",
+    "candidates": "Es buen candidato la persona adulta y sana que desea más volumen, corregir asimetrías, hidratar labios resecos o redefinir un contorno difuminado por la edad. También quienes buscan armonizar la proporción entre labio superior e inferior. No se recomienda en caso de embarazo o lactancia, infecciones activas en la zona (como herpes labial en brote), alergia conocida al ácido hialurónico o trastornos de coagulación no controlados. Las personas con expectativas poco realistas deben conversarlo previamente para acordar un resultado natural. Cada caso es distinto: una evaluación médica con el doctor Orsini confirma si el tratamiento es adecuado y define la técnica y cantidad ideales.",
+    "recovery": "La recuperación es rápida y la mayoría retoma sus actividades el mismo día. Durante las primeras 24 a 48 horas es normal cierta inflamación, leve enrojecimiento o pequeños hematomas en los puntos de punción. Se recomienda aplicar frío local las primeras horas y evitar maquillaje en la zona ese día. Conviene no realizar ejercicio intenso, ni exponerse a calor extremo (sauna, sol directo) durante 48 a 72 horas. Se aconseja no presionar ni masajear los labios salvo indicación médica. La inflamación cede progresivamente y el resultado se estabiliza entre la primera y segunda semana. No hay puntos que retirar, al ser un procedimiento inyectable. El efecto se consolida hacia las 2 semanas y, según el producto, se mantiene entre 6 y 12 meses, momento en que puede valorarse un retoque.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "30-45 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Tópica (crema)"
+      },
+      {
+        "label": "Recuperación",
+        "value": "24-48 horas"
+      },
+      {
+        "label": "Resultados",
+        "value": "Inmediatos, definitivos en 1-2 semanas"
+      },
+      {
+        "label": "Duración del efecto",
+        "value": "6-12 meses"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "emface",
+    "whatItIs": "EMFACE es un tratamiento facial no invasivo que tonifica los músculos y mejora la firmeza de la piel sin agujas ni cirugía. Combina dos tecnologías: energía de radiofrecuencia, que estimula la producción de colágeno y elastina, y campos electromagnéticos (HIFES), que contraen y fortalecen los músculos faciales. Se aplica mediante almohadillas adhesivas sobre la frente y las mejillas. Cada sesión dura habitualmente unos 20 minutos y no requiere anestesia. El protocolo típico contempla 4 sesiones, una por semana. No hay tiempo de inactividad: el paciente retoma sus actividades de inmediato. Algunas personas notan mejoría desde las primeras semanas, pero el resultado se consolida progresivamente entre los 1 y 3 meses posteriores a la última sesión, a medida que el colágeno madura. En la mayoría de los casos se observa un rostro más firme, con líneas de expresión suavizadas y un efecto de elevación natural.",
+    "candidates": "EMFACE es ideal para personas con flacidez facial leve a moderada que buscan tonificar y elevar el rostro sin cirugía ni inyecciones. Resulta apropiado para quienes notan pérdida de firmeza en frente y mejillas, líneas de expresión incipientes o un descenso del tercio medio facial. También es una opción para pacientes que prefieren evitar agujas y tiempos de recuperación. No se recomienda en presencia de implantes metálicos o dispositivos electrónicos en la zona, embarazo, marcapasos, o ciertas afecciones cutáneas activas. La flacidez avanzada puede requerir alternativas adicionales. Una evaluación médica con el Dr. Orsini confirma si EMFACE es el tratamiento adecuado para cada caso.",
+    "recovery": "EMFACE no requiere reposo ni periodo de inactividad. Al finalizar cada sesión, que dura unos 20 minutos, el paciente retoma de inmediato sus actividades habituales, incluido el trabajo y la vida social. Puede aparecer un enrojecimiento leve o una sensación de calidez temporal en la zona tratada, que suele desaparecer en pocas horas. No hay puntos que retirar ni cuidados especiales. El ejercicio y la rutina cosmética normal pueden reanudarse el mismo día. El protocolo habitual consiste en 4 sesiones, separadas por una semana cada una. Los primeros cambios pueden percibirse a las pocas semanas de iniciado el tratamiento. El resultado se consolida de forma progresiva entre 1 y 3 meses tras la última sesión, cuando el colágeno termina de madurar. Para mantener el efecto suelen recomendarse sesiones de refuerzo periódicas.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "20 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "No requiere"
+      },
+      {
+        "label": "Sesiones",
+        "value": "4 sesiones, 1 por semana"
+      },
+      {
+        "label": "Tiempo de inactividad",
+        "value": "Ninguno"
+      },
+      {
+        "label": "Resultados",
+        "value": "1-3 meses"
+      },
+      {
+        "label": "Mantenimiento",
+        "value": "Sesiones de refuerzo periódicas"
+      }
+    ]
+  },
+  {
+    "slug": "emsculpt-neo",
+    "whatItIs": "EMSculpt NEO es una tecnología no invasiva que tonifica los músculos y reduce grasa localizada de forma simultánea. Combina energía electromagnética focalizada de alta intensidad (HIFEM) con radiofrecuencia en una misma sesión. La radiofrecuencia calienta el tejido para favorecer la reducción de grasa. La energía HIFEM provoca contracciones musculares supramáximas que el ejercicio voluntario no alcanza. Se aplica habitualmente en abdomen, glúteos, brazos, muslos y pantorrillas. Cada sesión dura aproximadamente 30 minutos y no requiere anestesia. El tratamiento es ambulatorio y sin tiempo de reposo, por lo que se retoman las actividades el mismo día. El protocolo habitual incluye entre 4 y 6 sesiones, espaciadas cada 5 a 10 días. Las primeras mejoras suelen percibirse a las pocas semanas. En la mayoría de los casos, el resultado se consolida entre los 2 y 3 meses tras finalizar las sesiones. Una evaluación médica define el plan adecuado.",
+    "candidates": "Es un buen candidato la persona con peso cercano al ideal que desea definir musculatura y reducir grasa localizada resistente al ejercicio. Resulta útil para quienes buscan mejorar el tono abdominal, glúteo o de extremidades sin cirugía. También conviene a quienes desean complementar su rutina física. No está indicado en personas con obesidad importante que requieran otro enfoque, ni en embarazo. Se desaconseja con marcapasos, implantes metálicos en la zona, dispositivos electrónicos internos o hernias en el área a tratar. Tampoco sustituye una dieta equilibrada ni la actividad física. Una evaluación médica con el Dr. Orsini confirma la indicación según cada caso.",
+    "recovery": "La recuperación es inmediata. Al ser un tratamiento no invasivo, no requiere reposo ni tiempo de inactividad. Se retoman las actividades cotidianas, laborales y el ejercicio el mismo día de la sesión. No hay puntos que retirar ni vendajes. Es habitual sentir una sensación muscular similar a la de un entrenamiento intenso durante las primeras 24 a 48 horas. El protocolo completo suele abarcar entre 4 y 6 sesiones, realizadas cada 5 a 10 días, por lo que el ciclo total dura aproximadamente 4 a 6 semanas. Las primeras mejoras en tono y firmeza se perciben a las pocas semanas. El resultado se consolida de forma progresiva entre los 2 y 3 meses tras finalizar las sesiones. Mantener actividad física y alimentación equilibrada ayuda a prolongar los resultados.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "30 minutos aprox."
+      },
+      {
+        "label": "Anestesia",
+        "value": "No requiere"
+      },
+      {
+        "label": "Sesiones",
+        "value": "4-6, cada 5-10 días"
+      },
+      {
+        "label": "Tiempo de reposo",
+        "value": "Ninguno (ambulatorio)"
+      },
+      {
+        "label": "Zonas",
+        "value": "Abdomen, glúteos, brazos, muslos"
+      },
+      {
+        "label": "Resultados",
+        "value": "2-3 meses"
+      }
+    ]
+  },
+  {
+    "slug": "exilite",
+    "whatItIs": "Exilite es una tecnología de luz pulsada intensa (IPL) que trata manchas, rojeces y signos del fotoenvejecimiento sin cirugía. El equipo emite pulsos de luz que la piel absorbe de forma selectiva. Esta energía actúa sobre la melanina de las manchas y sobre los vasos finos responsables de la rojez. Además, estimula la producción de colágeno para mejorar la textura. La sesión dura habitualmente entre 20 y 40 minutos. No requiere anestesia general; suele bastar con un gel refrescante sobre la zona. Se realiza de forma ambulatoria y permite retomar la rutina casi de inmediato. En la mayoría de los casos se programan varias sesiones, espaciadas cada 3 a 4 semanas. Tras cada sesión, las manchas pueden oscurecerse antes de desprenderse en pocos días. Los resultados se aprecian de manera progresiva y se consolidan a lo largo de varias semanas, mejorando luminosidad y uniformidad del tono cutáneo.",
+    "candidates": "Exilite es adecuado para personas con manchas solares, rojeces difusas, cuperosis o signos leves de fotoenvejecimiento que buscan una opción sin cirugía. Beneficia a quienes desean unificar el tono y mejorar la luminosidad facial, del cuello o el escote. No se recomienda durante el embarazo, ni sobre piel bronceada reciente o con bronceado artificial, por mayor riesgo de cambios de pigmentación. Tampoco es ideal en fototipos muy oscuros, lesiones sospechosas o infecciones activas en la zona. Quienes toman medicación fotosensibilizante deben informarlo. Una evaluación médica con el Dr. Orsini confirma si este tratamiento es la opción apropiada para cada caso.",
+    "recovery": "La recuperación tras Exilite es rápida y ambulatoria. Es normal sentir calor leve y notar enrojecimiento durante las primeras horas, que suele ceder en 1 a 2 días. Las manchas tratadas pueden oscurecerse y formar costras finas que se desprenden de manera natural entre 5 y 10 días; no deben retirarse a la fuerza. Se puede retomar la actividad ligera y la rutina diaria el mismo día. Conviene posponer el ejercicio intenso y el calor extremo durante 24 a 48 horas. Es fundamental aplicar protector solar a diario y evitar la exposición directa al sol durante varias semanas. El protocolo habitual contempla varias sesiones cada 3 a 4 semanas. El resultado se consolida de forma progresiva a lo largo de 2 a 3 meses, con piel más uniforme y luminosa.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "20-40 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "No requiere (gel refrescante)"
+      },
+      {
+        "label": "Sesiones",
+        "value": "Varias, cada 3-4 semanas"
+      },
+      {
+        "label": "Downtime",
+        "value": "Mínimo (0-2 días)"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      },
+      {
+        "label": "Resultados",
+        "value": "Progresivos, 2-3 meses"
+      }
+    ]
+  },
+  {
+    "slug": "exomind",
+    "whatItIs": "Exomind es una tecnologia de neuroestimulacion no invasiva orientada al bienestar mental y emocional. Mediante estimulacion magnetica transcraneal aplicada a traves de un aplicador externo colocado sobre el cuero cabelludo, busca modular suavemente la actividad de areas cerebrales relacionadas con el estado de animo y la regulacion del estres, sin necesidad de cirugia, anestesia ni farmacos. El procedimiento se realiza en consulta, de forma ambulatoria, con el paciente sentado y consciente durante toda la sesion. Forma parte de los enfoques complementarios de bienestar y no constituye, por si misma, un tratamiento psiquiatrico ni reemplaza la valoracion de un profesional de salud mental cuando esta resulta necesaria. Se suele aplicar en ciclos de varias sesiones, definidos tras una evaluacion inicial que confirma la idoneidad de la tecnologia y descarta contraindicaciones. Su objetivo es acompanar la sensacion de calma, claridad mental y manejo del estres cotidiano de manera progresiva.",
+    "candidates": "Exomind suele indicarse para personas adultas que buscan apoyo no invasivo en su bienestar emocional, manejo del estres cotidiano o sensacion de fatiga mental. Es una opcion para quienes prefieren un enfoque sin farmacos ni recuperacion. No se recomienda en personas con implantes metalicos craneales, marcapasos, dispositivos electronicos implantados, antecedentes de convulsiones o epilepsia, ni durante el embarazo. Tampoco sustituye la atencion de un especialista en salud mental cuando esta es necesaria. Cada caso es distinto, por lo que una evaluacion medica previa en consulta confirma la idoneidad de la tecnologia y descarta contraindicaciones antes de iniciar las sesiones.",
+    "recovery": "Exomind no implica tiempo de recuperacion ni reposo. Al tratarse de una tecnologia no invasiva, el paciente retoma sus actividades habituales de inmediato tras cada sesion, incluido el trabajo, la conduccion y el ejercicio el mismo dia. Cada sesion dura aproximadamente entre 20 y 30 minutos. El protocolo habitual contempla un ciclo de varias sesiones, distribuidas a lo largo de algunas semanas, con una frecuencia que se define en la evaluacion inicial. Durante las primeras sesiones puede percibirse una sensacion de mayor calma o relajacion. Los beneficios sobre el bienestar tienden a consolidarse de manera progresiva al completar el ciclo, entre las primeras semanas y los meses siguientes. En algunos casos se sugieren sesiones de mantenimiento periodicas para sostener los resultados en el tiempo.",
+    "keyFacts": [
+      {
+        "label": "Tipo",
+        "value": "No invasivo, sin anestesia"
+      },
+      {
+        "label": "Duracion por sesion",
+        "value": "20-30 minutos"
+      },
+      {
+        "label": "Protocolo",
+        "value": "Ciclo de varias sesiones / semanas"
+      },
+      {
+        "label": "Tiempo de recuperacion",
+        "value": "Ninguno (actividad inmediata)"
+      },
+      {
+        "label": "Resultados",
+        "value": "Progresivos, semanas a meses"
+      },
+      {
+        "label": "Mantenimiento",
+        "value": "Sesiones periodicas opcionales"
+      }
+    ]
+  },
+  {
+    "slug": "exosomas-autologos",
+    "whatItIs": "Los exosomas autólogos son un tratamiento de medicina regenerativa que utiliza mensajeros biológicos extraídos de tu propia sangre o grasa para estimular la renovación de la piel y los tejidos. El proceso parte de una pequeña muestra que se procesa en un kit cerrado y estéril durante la consulta. Es un procedimiento mínimamente invasivo que habitualmente dura entre 45 y 90 minutos, según las zonas a tratar. Se aplica con anestesia tópica o local, por lo que resulta cómodo. Al usar material propio, se reduce la posibilidad de reacciones alérgicas o de rechazo. La mayoría de las personas retoma su rutina el mismo día, con leve enrojecimiento o sensibilidad temporal. Los resultados son progresivos: dependen de la respuesta regenerativa de tu organismo y suelen apreciarse de forma gradual durante las semanas siguientes. En muchos casos se recomienda un plan de varias sesiones.",
+    "candidates": "Es buen candidato quien busca mejorar la calidad, textura y luminosidad de la piel, acompañar la recuperación tras tratamientos como radiofrecuencia con microagujas o láser fraccionado, reforzar el estímulo capilar en zonas con menor densidad o apoyar el manejo orgánico de manchas. Suele indicarse en personas con buena salud general y expectativas realistas, que prefieren un enfoque a partir de su propio material biológico. No se recomienda durante el embarazo o la lactancia, ni en presencia de infecciones activas en la zona, ciertos trastornos de la coagulación u otras condiciones médicas relevantes. Una evaluación médica con el Dr. Orsini confirma si es la opción adecuada para ti.",
+    "recovery": "La recuperación suele ser sencilla y no requiere reposo prolongado. Durante las primeras 24 a 48 horas puede aparecer leve enrojecimiento, hinchazón o sensibilidad en las zonas tratadas, que cede de forma espontánea. La mayoría de las personas retoma sus actividades habituales el mismo día o al día siguiente. Se recomienda evitar el ejercicio intenso, el sol directo, saunas y piscinas durante 3 a 5 días, además de mantener una buena hidratación y fotoprotección. Al ser un procedimiento mínimamente invasivo, en general no hay puntos que retirar. Los resultados se consolidan de manera progresiva durante las semanas siguientes, a medida que tu organismo activa sus procesos naturales de regeneración. Según tus objetivos, puede plantearse un plan de varias sesiones espaciadas para mantener y potenciar la mejoría.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "45-90 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Tópica o local"
+      },
+      {
+        "label": "Sesiones",
+        "value": "1-3 según objetivos"
+      },
+      {
+        "label": "Recuperación",
+        "value": "Mismo día / 1-2 días"
+      },
+      {
+        "label": "Resultados",
+        "value": "Progresivos en semanas"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "hebe",
+    "whatItIs": "Hebe es una tecnología de bioestimulación celular por radiofrecuencia de 448 kHz que reactiva el metabolismo de los tejidos para tensar la piel, estimular colágeno y favorecer la regeneración en rostro y cuerpo. Es un tratamiento no quirúrgico, sin anestesia y de manejo ambulatorio. Trabaja en tres modos: atérmico, para bioestimulación celular; térmico, que mejora oxigenación y drenaje; e hipertérmico, que promueve la contracción del colágeno. Cada sesión dura habitualmente entre 30 y 60 minutos, según la zona tratada. Durante la aplicación se percibe un calor agradable y controlado, sin tiempo de reposo posterior. Los resultados son progresivos: suele notarse un efecto inicial de firmeza desde las primeras sesiones, y la mejoría se consolida en las semanas siguientes a medida que se produce colágeno. En la mayoría de los casos se recomienda un plan de varias sesiones, definido tras la evaluación médica con el Dr. Omar Orsini.",
+    "candidates": "Hebe está pensado para personas que buscan firmeza, mejor calidad de piel o apoyo en su recuperación sin recurrir a cirugía. Es una buena opción para quienes notan flacidez incipiente en rostro o cuerpo, desean atenuar la piel laxa o requieren acompañamiento antes y después de un procedimiento para reducir inflamación y favorecer el drenaje. No suele indicarse en embarazo, con marcapasos o dispositivos electrónicos implantados, infecciones activas en la zona o ciertas condiciones cutáneas. Quien busque corregir flacidez muy avanzada puede requerir alternativas quirúrgicas. La indicación definitiva siempre se confirma en una evaluación médica, donde se valoran tu piel, tus antecedentes y tus objetivos.",
+    "recovery": "Hebe es un tratamiento no invasivo que en la mayoría de los casos no requiere reposo, por lo que puedes retomar tus actividades habituales el mismo día. No hay puntos ni cortes que retirar. Durante la sesión suele percibirse un calor agradable y, al finalizar, puede aparecer un ligero enrojecimiento temporal que cede en pocas horas. La actividad ligera y el ejercicio pueden retomarse de inmediato, salvo indicación distinta de tu médico. Los resultados son progresivos: se aprecia un efecto inicial de firmeza desde las primeras sesiones y la mejoría se consolida durante las semanas siguientes, a medida que se estimula el colágeno. El plan habitual contempla varias sesiones espaciadas, normalmente semanales, según la zona. Tu médico indicará los cuidados específicos y los tiempos de mantenimiento según tu caso.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "30-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "No requiere"
+      },
+      {
+        "label": "Sesiones",
+        "value": "Plan personalizado, varias sesiones semanales"
+      },
+      {
+        "label": "Tiempo de reposo",
+        "value": "Sin reposo (mismo día)"
+      },
+      {
+        "label": "Resultados",
+        "value": "Progresivos, en las semanas siguientes"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "hydrafacial",
+    "whatItIs": "El Hydrafacial es un tratamiento facial no invasivo que limpia, exfolia, extrae impurezas e hidrata la piel en una sola sesión. Utiliza una tecnología de vórtice con punta patentada que aspira los puntos negros y las células muertas mientras infunde sueros con ácido hialurónico, antioxidantes y péptidos. El procedimiento es indoloro y habitualmente dura entre 30 y 45 minutos. No requiere anestesia ni reposo. La piel queda visiblemente más luminosa e hidratada desde la primera sesión, sin enrojecimiento significativo. En la mayoría de los casos no hay tiempo de inactividad, por lo que se puede retomar la rutina de inmediato. Para resultados sostenidos, suele recomendarse una sesión mensual. Es un tratamiento versátil que se adapta a distintos tipos de piel y necesidades, como opacidad, poros dilatados, deshidratación o líneas finas. En Perfect by Dr. Orsini se personaliza el protocolo y los sueros según la evaluación de cada paciente.",
+    "candidates": "El Hydrafacial es adecuado para la mayoría de los tipos de piel, incluyendo piel sensible, ya que es suave y no abrasivo. Es una buena opción para quienes presentan opacidad, deshidratación, poros congestionados, textura irregular o líneas finas, y para quienes desean un mantenimiento facial regular. También resulta útil como preparación previa a un evento. No se recomienda durante brotes activos de rosácea inflamatoria, infecciones cutáneas, herpes activo o heridas abiertas en la zona a tratar. Las personas con alergias a alguno de los componentes de los sueros deben informarlo. Una evaluación médica previa confirma si es el tratamiento indicado y permite ajustar el protocolo a cada paciente.",
+    "recovery": "El Hydrafacial no requiere reposo ni tiempo de recuperación. En la mayoría de los casos se puede retomar la actividad diaria, el trabajo y la rutina social de inmediato, ya que no genera enrojecimiento significativo. La piel luce más luminosa e hidratada el mismo día de la sesión. Durante las primeras 24 a 48 horas conviene evitar la exposición solar directa, no aplicar maquillaje pesado las primeras horas y usar protector solar a diario. Se recomienda no realizar exfoliaciones agresivas ni usar retinoides los dos o tres días posteriores. El ejercicio puede retomarse el mismo día. Para consolidar y mantener los resultados, suele indicarse una sesión mensual; un plan de varias sesiones mejora progresivamente la textura, la hidratación y la luminosidad de la piel a lo largo de las semanas.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "30-45 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "No requiere"
+      },
+      {
+        "label": "Downtime",
+        "value": "Sin tiempo de inactividad"
+      },
+      {
+        "label": "Resultados",
+        "value": "Visibles desde la 1.ª sesión"
+      },
+      {
+        "label": "Frecuencia",
+        "value": "1 sesión mensual"
+      },
+      {
+        "label": "Modalidad",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "laser-co2-fractal-aurora",
+    "whatItIs": "El láser CO2 fraccional Aurora es un tratamiento que emite microcolumnas de energía láser para renovar la piel de forma controlada. La luz crea diminutas zonas de calor que estimulan la producción de colágeno y elastina. El tejido sano que rodea cada microcolumna acelera la cicatrización. Se utiliza habitualmente para arrugas, cicatrices de acné, poros dilatados y daño solar. La sesión dura entre 30 y 60 minutos. Se aplica anestesia tópica en crema y, en algunos casos, infiltrada. Es un procedimiento ambulatorio, sin hospitalización. Tras la sesión la piel queda enrojecida y descama durante varios días. En la mayoría de los casos se recomiendan entre 1 y 3 sesiones, separadas por 4 a 6 semanas. Los primeros cambios se notan en 2 a 4 semanas. El resultado se consolida progresivamente a los 3 a 6 meses, cuando el colágeno nuevo madura. La intensidad se ajusta a cada tipo de piel.",
+    "candidates": "Es un buen candidato la persona con arrugas finas, cicatrices de acné, poros dilatados, manchas o textura irregular que busca rejuvenecer la piel sin cirugía. También quienes desean mejorar el daño solar de forma gradual. No es ideal para quienes tienen infecciones activas, herpes en brote, heridas abiertas o tendencia a cicatrices queloides. Las personas con piel muy bronceada deben esperar, y conviene postergarlo durante el embarazo y la lactancia. Los fototipos oscuros requieren parámetros conservadores por mayor riesgo de manchas. Una evaluación médica con el Dr. Orsini confirma la indicación, define la intensidad adecuada y descarta contraindicaciones antes de iniciar.",
+    "recovery": "Tras la sesión la piel queda roja, caliente e inflamada durante las primeras 48 a 72 horas. En los días 3 a 7 aparece descamación y costras finas que no deben retirarse de forma forzada. El reposo social habitual es de 5 a 7 días, según la intensidad aplicada. Se indican cremas hidratantes, cicatrizantes y protección solar estricta. La actividad ligera y el trabajo de oficina pueden retomarse a las 24 a 48 horas en la mayoría de los casos. El ejercicio intenso, la sauna y la exposición solar directa se posponen entre 1 y 2 semanas. El maquillaje suele tolerarse a partir del día 7. Los primeros resultados se aprecian en 2 a 4 semanas. La mejoría continúa y se consolida entre los 3 y 6 meses, a medida que madura el colágeno nuevo.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "30-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Tópica (crema)"
+      },
+      {
+        "label": "Sesiones",
+        "value": "1-3, cada 4-6 semanas"
+      },
+      {
+        "label": "Tiempo social",
+        "value": "5-7 días"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 meses"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "morpheus8",
+    "whatItIs": "Morpheus8 es un tratamiento de radiofrecuencia fraccionada con microagujas que remodela la piel en profundidad sin cirugía. Las microagujas penetran la dermis y el tejido subcutáneo, y liberan energía de radiofrecuencia que estimula la contracción del tejido y la producción de colágeno y elastina. Su tecnología de pulso trata varios niveles de profundidad a la vez y protege la superficie de la piel, por lo que es apto para distintos tonos. La sesión dura habitualmente entre 30 y 60 minutos. Antes se aplica anestesia tópica para mayor confort. Es un procedimiento ambulatorio. La recuperación suele ser corta, con enrojecimiento que cede en pocos días. Los resultados se aprecian de forma progresiva durante las semanas y meses siguientes, a medida que la piel genera colágeno nuevo. En la mayoría de los casos se recomienda un esquema de varias sesiones.",
+    "candidates": "Es una opción a considerar para personas con flacidez leve a moderada, piel con pérdida de firmeza, arrugas, marcas o cicatrices de acné, poros dilatados o irregularidades de textura, además de grasa localizada en algunas zonas del cuerpo. También interesa a quienes desean rejuvenecer la piel sin pasar por cirugía. No suele recomendarse durante el embarazo o la lactancia, ni en presencia de infecciones activas en la zona, lesiones cutáneas no diagnosticadas o ciertos dispositivos implantados. Tampoco sustituye a una cirugía cuando la flacidez es avanzada. La indicación, el número de sesiones y la profundidad de trabajo se confirman siempre en una evaluación médica con el Dr. Omar Orsini.",
+    "recovery": "Tras la sesión es normal observar enrojecimiento, leve hinchazón y una sensación parecida a la de una insolación, junto con pequeñas marcas que suelen atenuarse en pocos días. El enrojecimiento facial habitualmente cede en 2 a 4 días; en tratamientos corporales la recuperación ronda los 3 a 7 días. La mayoría de las personas retoma actividades ligeras a las 24-48 horas, siguiendo las indicaciones de cuidado, hidratación y fotoprotección estricta. Conviene posponer el ejercicio intenso, el calor y el sol directo durante unos 5 a 7 días. Los resultados se aprecian de forma progresiva en las semanas siguientes y suelen consolidarse a los 3 a 6 meses, a medida que la piel produce colágeno nuevo. En la mayoría de los casos se recomienda un esquema de varias sesiones definido por el especialista. La evolución varía según cada persona, la zona tratada y la profundidad del protocolo.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "30-60 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Tópica"
+      },
+      {
+        "label": "Sesiones",
+        "value": "1-3, cada 4-6 semanas"
+      },
+      {
+        "label": "Recuperación",
+        "value": "3-7 días"
+      },
+      {
+        "label": "Resultados",
+        "value": "3-6 meses (progresivos)"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      }
+    ]
+  },
+  {
+    "slug": "quantumrf",
+    "whatItIs": "QuantumRF es un tratamiento de radiofrecuencia subdérmica que aplica calor controlado bajo la piel para reafirmar y redefinir el contorno del rostro y el cuerpo. La energía se administra en profundidad mediante microcánulas, por lo que es un procedimiento mínimamente invasivo, sin cirugía abierta. Habitualmente se realiza con anestesia local o sedación, según la zona y la extensión a tratar. La sesión suele durar entre 1 y 3 horas y se efectúa de forma ambulatoria. El calor contrae el tejido fibroso de inmediato y, a la vez, estimula la formación de colágeno nuevo. Por eso se aprecia una reafirmación temprana en las primeras semanas, que continúa mejorando de forma progresiva durante los meses siguientes. En la mayoría de los casos, la recuperación es más sencilla que la de una cirugía convencional, con un retorno gradual a la actividad cotidiana. La indicación se confirma siempre en la valoración con el Dr. Omar Orsini.",
+    "candidates": "QuantumRF es una opción a considerar para personas adultas con flacidez leve a moderada en rostro o cuerpo que desean reafirmar y redefinir el contorno sin recurrir a una cirugía mayor. Suele interesar a quienes notan papada, mejillas descendidas, pérdida de definición del óvalo facial, o laxitud en abdomen, flancos, brazos, glúteos y muslos. No es la alternativa adecuada para casos de exceso importante de piel que requieran resección quirúrgica, ni durante el embarazo o la lactancia. El candidato mantiene expectativas realistas y buen estado de salud. La idoneidad siempre se confirma en una evaluación médica personalizada con el Dr. Omar Orsini, que define si esta tecnología es la más adecuada.",
+    "recovery": "La recuperación suele ser más llevadera que la de una cirugía convencional, aunque varía según la zona tratada y cada persona. Durante los primeros 3 a 5 días es habitual experimentar inflamación, sensibilidad o ligeros hematomas que disminuyen de forma progresiva. En muchos casos se recomienda reposo relativo durante 2 a 3 días y el uso de prendas de compresión en zonas corporales por algunas semanas. La actividad ligera suele retomarse en pocos días, mientras que el ejercicio intenso se reincorpora de manera gradual habitualmente a partir de las 2 a 4 semanas, según la indicación del especialista. La reafirmación se aprecia de forma temprana en las primeras semanas y el resultado se consolida progresivamente entre los 3 y 6 meses, a medida que se forma colágeno nuevo. El Dr. Orsini entrega indicaciones personalizadas y seguimiento cercano.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "1-3 horas"
+      },
+      {
+        "label": "Anestesia",
+        "value": "Local o sedación"
+      },
+      {
+        "label": "Abordaje",
+        "value": "Mínimamente invasivo (microcánulas)"
+      },
+      {
+        "label": "Hospitalización",
+        "value": "Ambulatorio"
+      },
+      {
+        "label": "Recuperación",
+        "value": "3-5 días iniciales / actividad ligera en pocos días"
+      },
+      {
+        "label": "Resultados",
+        "value": "Reafirmación temprana, consolidación 3-6 meses"
+      }
+    ]
+  },
+  {
+    "slug": "xwave",
+    "whatItIs": "La tecnología X-Wave es un tratamiento corporal no invasivo que emite ondas acústicas radiales sobre la piel y los tejidos. Estas ondas transmiten energía cinética y vibraciones que actúan sobre las bandas fibrosas asociadas a los hoyuelos de la celulitis. Al mismo tiempo, estimulan la microcirculación y el drenaje en la zona tratada. El objetivo es lograr una piel de textura más uniforme y con mejor tono. Es una técnica no ablativa, sin incisiones ni anestesia, que se realiza de forma ambulatoria en consultorio. Cada sesión dura habitualmente entre 20 y 40 minutos, según las zonas. La mayoría de los planes contempla entre 8 y 12 sesiones, con frecuencia semanal. No requiere reposo: puedes retomar tu rutina el mismo día. Los cambios son progresivos y suelen apreciarse a lo largo de las semanas, consolidándose en los meses siguientes. En Perfect by Dr. Orsini se integra bajo la valoración del Dr. Omar Orsini en Caracas.",
+    "candidates": "X-Wave está indicada para personas adultas que desean suavizar la apariencia de la celulitis o mejorar la firmeza de la piel corporal sin recurrir a cirugía. Es una buena opción para quienes presentan celulitis en glúteos, muslos o abdomen, flacidez leve a moderada, o piel con estrías y cicatrices que buscan mayor elasticidad. No es la alternativa más adecuada para personas que esperan resultados inmediatos, que cursan embarazo, o que presentan infecciones, lesiones cutáneas activas o ciertas condiciones médicas en la zona. El candidato ideal mantiene expectativas realistas y entiende que es un tratamiento progresivo. La idoneidad siempre se confirma en una evaluación médica con el Dr. Omar Orsini.",
+    "recovery": "X-Wave no requiere tiempo de reposo. Al ser un tratamiento no invasivo, puedes retomar tus actividades habituales el mismo día, incluido el trabajo y el ejercicio ligero. Es normal notar un leve enrojecimiento o sensibilidad temporal en la zona tratada, que habitualmente cede en pocas horas. No hay puntos que retirar ni vendajes. Para alcanzar los resultados que se buscan, generalmente se recomienda un esquema de 8 a 12 sesiones, espaciadas de forma semanal según el plan que defina tu médico. Los cambios son progresivos: muchas personas notan mejoras en la textura a partir de la cuarta o sexta sesión. El resultado tiende a consolidarse en los 3 a 6 meses posteriores. El equipo te indicará las pautas de hidratación y cuidado de la piel para cada etapa.",
+    "keyFacts": [
+      {
+        "label": "Duración por sesión",
+        "value": "20-40 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "No requiere"
+      },
+      {
+        "label": "Sesiones",
+        "value": "8-12, frecuencia semanal"
+      },
+      {
+        "label": "Reposo",
+        "value": "Ambulatorio, sin downtime"
+      },
+      {
+        "label": "Resultados",
+        "value": "Progresivos, 3-6 meses"
+      }
+    ]
+  },
+  {
+    "slug": "toxina-botulinica",
+    "whatItIs": "El suavizado de líneas de expresión es un tratamiento médico-estético no quirúrgico que relaja de forma temporal los músculos responsables de las arrugas dinámicas del rostro, como las del entrecejo, la frente y el contorno de los ojos. Al disminuir la contracción muscular, la piel luce más lisa y descansada, conservando una expresión natural. El Dr. Omar Orsini lo aplica de forma personalizada, definiendo los puntos y las dosis según la anatomía y los gestos de cada paciente. La sesión dura habitualmente entre 15 y 30 minutos y no requiere anestesia ni reposo. El efecto comienza a notarse a los pocos días y se completa, en la mayoría de los casos, entre los 7 y 14 días. El resultado es temporal y suele mantenerse entre 3 y 6 meses, por lo que conviene repetir el tratamiento de forma periódica para sostener el efecto.",
+    "candidates": "Es buen candidato la persona adulta y sana que desea atenuar las arrugas de expresión del tercio superior del rostro y prevenir que se marquen más, con expectativas realistas. Suele indicarse desde que aparecen las primeras líneas dinámicas. No se recomienda durante el embarazo o la lactancia, ni en personas con ciertas enfermedades neuromusculares, infecciones activas en la zona o alergias a los componentes. Una valoración médica con el Dr. Orsini confirma si es la opción adecuada y define el plan más seguro para cada caso.",
+    "recovery": "No requiere reposo: es un procedimiento ambulatorio tras el cual puedes retomar tu rutina de inmediato. Durante las primeras horas se recomienda mantenerse erguido, evitar tocar o masajear la zona, no hacer ejercicio intenso ni exponerse al calor extremo, y posponer otros tratamientos faciales. Pueden aparecer un leve enrojecimiento o pequeños puntos en los sitios de aplicación, que ceden en pocas horas. El efecto comienza a notarse a los 3 o 4 días y se estabiliza entre los 7 y 14 días, momento ideal para una revisión. El resultado se mantiene, en la mayoría de los casos, entre 3 y 6 meses.",
+    "keyFacts": [
+      {
+        "label": "Duración",
+        "value": "15-30 minutos"
+      },
+      {
+        "label": "Anestesia",
+        "value": "No requiere"
+      },
+      {
+        "label": "Reposo",
+        "value": "Sin reposo"
+      },
+      {
+        "label": "Inicio del efecto",
+        "value": "3-4 días"
+      },
+      {
+        "label": "Resultado pleno",
+        "value": "7-14 días"
+      },
+      {
+        "label": "Duración del efecto",
+        "value": "3-6 meses"
+      }
+    ]
+  }
+]

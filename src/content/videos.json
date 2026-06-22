@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "rinoplastia",
+    "src": "/videos/rinoplastia.mp4",
+    "photographer": "Artem Podrez",
+    "url": "https://www.pexels.com/video/close-up-video-of-a-blue-eyed-woman-7648784/",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "slug": "lipoescultura",
+    "src": "/videos/lipoescultura.mp4",
+    "photographer": "KoolShooters",
+    "url": "https://www.pexels.com/video/a-young-woman-doing-stretching-8520335/",
+    "w": 1366,
+    "h": 560
+  },
+  {
+    "slug": "mamoplastia",
+    "src": "/videos/mamoplastia.mp4",
+    "photographer": "Theo  Decker",
+    "url": "https://www.pexels.com/video/business-woman-looking-at-the-camera-5944678/",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "slug": "peeling-facial",
+    "src": "/videos/peeling-facial.mp4",
+    "photographer": "Polina Tankilevitch",
+    "url": "https://www.pexels.com/video/woman-having-her-beauty-skincare-routine-3741665/",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "slug": "rejuvenecimiento-corporal",
+    "src": "/videos/rejuvenecimiento-corporal.mp4",
+    "photographer": "Ira Po",
+    "url": "https://www.pexels.com/video/massage-on-back-12453909/",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "slug": "bioestimuladores",
+    "src": "/videos/bioestimuladores.mp4",
+    "photographer": "KoolShooters",
+    "url": "https://www.pexels.com/video/close-up-footage-of-a-woman-s-face-8956058/",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "slug": "blog",
+    "src": "/videos/blog.mp4",
+    "photographer": "Artem Podrez",
+    "url": "https://www.pexels.com/video/a-cosmetic-product-on-the-table-6802241/",
+    "w": 1280,
+    "h": 720
+  }
+]

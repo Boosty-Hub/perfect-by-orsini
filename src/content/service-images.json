@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "rinoplastia",
+    "hero": "/img/service/rinoplastia-a.webp",
+    "ambiance": "/img/service/rinoplastia-a.webp"
+  },
+  {
+    "slug": "mamoplastia",
+    "hero": "/img/service/mamoplastia-a.webp",
+    "ambiance": "/img/service/mamoplastia-a.webp"
+  },
+  {
+    "slug": "lipoescultura",
+    "hero": "/img/service/lipoescultura-a.webp",
+    "ambiance": "/img/service/lipoescultura-a.webp"
+  },
+  {
+    "slug": "aumento-de-gluteos",
+    "hero": "/img/service/aumento-de-gluteos-a.webp",
+    "ambiance": "/img/service/aumento-de-gluteos-a.webp"
+  },
+  {
+    "slug": "blefaroplastia",
+    "hero": "/img/service/blefaroplastia-a.webp",
+    "ambiance": "/img/service/blefaroplastia-a.webp"
+  },
+  {
+    "slug": "otoplastia",
+    "hero": "/img/service/otoplastia-a.webp",
+    "ambiance": "/img/service/otoplastia-a.webp"
+  },
+  {
+    "slug": "lifting-facial",
+    "hero": "/img/service/lifting-facial-a.webp",
+    "ambiance": "/img/service/lifting-facial-a.webp"
+  },
+  {
+    "slug": "bioestimuladores",
+    "hero": "/img/service/bioestimuladores-a.webp",
+    "ambiance": "/img/service/bioestimuladores-a.webp"
+  },
+  {
+    "slug": "celulitis-y-flacidez",
+    "hero": "/img/service/celulitis-y-flacidez-a.webp",
+    "ambiance": "/img/service/celulitis-y-flacidez-a.webp"
+  },
+  {
+    "slug": "estrias-y-cicatrices",
+    "hero": "/img/service/estrias-y-cicatrices-a.webp",
+    "ambiance": "/img/service/estrias-y-cicatrices-a.webp"
+  },
+  {
+    "slug": "mesoterapia-y-vitaminas",
+    "hero": "/img/service/mesoterapia-y-vitaminas-a.webp",
+    "ambiance": "/img/service/mesoterapia-y-vitaminas-a.webp"
+  },
+  {
+    "slug": "peeling-facial",
+    "hero": "/img/service/peeling-facial-a.webp",
+    "ambiance": "/img/service/peeling-facial-a.webp"
+  },
+  {
+    "slug": "plasma-rico-en-plaquetas",
+    "hero": "/img/service/plasma-rico-en-plaquetas-a.webp",
+    "ambiance": "/img/service/plasma-rico-en-plaquetas-a.webp"
+  },
+  {
+    "slug": "reduccion-de-grasa",
+    "hero": "/img/service/reduccion-de-grasa-a.webp",
+    "ambiance": "/img/service/reduccion-de-grasa-a.webp"
+  },
+  {
+    "slug": "regeneracion-capilar",
+    "hero": "/img/service/regeneracion-capilar-a.webp",
+    "ambiance": "/img/service/regeneracion-capilar-a.webp"
+  },
+  {
+    "slug": "rejuvenecimiento-corporal",
+    "hero": "/img/service/rejuvenecimiento-corporal-a.webp",
+    "ambiance": "/img/service/rejuvenecimiento-corporal-a.webp"
+  },
+  {
+    "slug": "relleno-de-labios",
+    "hero": "/img/service/relleno-de-labios-a.webp",
+    "ambiance": "/img/service/relleno-de-labios-a.webp"
+  },
+  {
+    "slug": "toxina-botulinica",
+    "hero": "/img/service/toxina-botulinica-a.webp",
+    "ambiance": "/img/service/toxina-botulinica-a.webp"
+  }
+]

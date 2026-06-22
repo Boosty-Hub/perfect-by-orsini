@@ -1,0 +1,437 @@
+[
+  {
+    "slug": "rinoplastia",
+    "hero": "/img/pexels/rinoplastia-a.webp",
+    "ambiance": "/img/pexels/rinoplastia-b.webp",
+    "credits": [
+      {
+        "photographer": "Edoardo Tommasini",
+        "url": "https://www.pexels.com/photo/side-profile-shot-of-woman-s-face-in-close-up-photography-6628908/"
+      },
+      {
+        "photographer": "Nguyễn Văn Minh Vương",
+        "url": "https://www.pexels.com/photo/woman-in-gray-crew-neck-shirt-8485336/"
+      }
+    ]
+  },
+  {
+    "slug": "mamoplastia",
+    "hero": "/img/pexels/mamoplastia-a.webp",
+    "ambiance": "/img/pexels/mamoplastia-b.webp",
+    "credits": [
+      {
+        "photographer": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/a-woman-in-black-coat-6535731/"
+      },
+      {
+        "photographer": "Alina  Rossoshanska",
+        "url": "https://www.pexels.com/photo/woman-standing-on-a-balcony-24740631/"
+      }
+    ]
+  },
+  {
+    "slug": "lipoescultura",
+    "hero": "/img/pexels/lipoescultura-a.webp",
+    "ambiance": "/img/pexels/lipoescultura-b.webp",
+    "credits": [
+      {
+        "photographer": "Dhenny Napitupulu",
+        "url": "https://www.pexels.com/photo/back-view-of-woman-at-beach-18180404/"
+      },
+      {
+        "photographer": "Tima Miroshnichenko",
+        "url": "https://www.pexels.com/photo/woman-exercising-on-hilltop-5928253/"
+      }
+    ]
+  },
+  {
+    "slug": "aumento-de-gluteos",
+    "hero": "/img/pexels/aumento-de-gluteos-a.webp",
+    "ambiance": "/img/pexels/aumento-de-gluteos-b.webp",
+    "credits": [
+      {
+        "photographer": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/a-back-view-of-a-woman-wearing-sports-bra-5310886/"
+      },
+      {
+        "photographer": "Andrea Piacquadio",
+        "url": "https://www.pexels.com/photo/strong-woman-in-sportswear-preparing-practicing-fitness-3855610/"
+      }
+    ]
+  },
+  {
+    "slug": "blefaroplastia",
+    "hero": "/img/pexels/blefaroplastia-a.webp",
+    "ambiance": "/img/pexels/blefaroplastia-b.webp",
+    "credits": [
+      {
+        "photographer": "Troy Tumbin",
+        "url": "https://www.pexels.com/photo/close-up-of-a-human-eye-in-natural-light-37494545/"
+      },
+      {
+        "photographer": "www.kaboompics.com",
+        "url": "https://www.pexels.com/photo/a-woman-applying-eyeshadow-7588617/"
+      }
+    ]
+  },
+  {
+    "slug": "otoplastia",
+    "hero": "/img/pexels/otoplastia-a.webp",
+    "ambiance": "/img/pexels/otoplastia-b.webp",
+    "credits": [
+      {
+        "photographer": "Samad Ismayilov",
+        "url": "https://www.pexels.com/photo/grayscale-photo-of-woman-in-black-top-764873/"
+      },
+      {
+        "photographer": "Eric Moura",
+        "url": "https://www.pexels.com/photo/black-and-white-portrait-of-a-woman-lying-down-34180074/"
+      }
+    ]
+  },
+  {
+    "slug": "lifting-facial",
+    "hero": "/img/pexels/lifting-facial-a.webp",
+    "ambiance": "/img/pexels/lifting-facial-b.webp",
+    "credits": [
+      {
+        "photographer": "Moe Magners",
+        "url": "https://www.pexels.com/photo/an-elderly-woman-wearing-a-black-leather-jacket-5335414/"
+      },
+      {
+        "photographer": "Shiny Diamond",
+        "url": "https://www.pexels.com/photo/woman-with-pink-lipstick-smiling-3762401/"
+      }
+    ]
+  },
+  {
+    "slug": "bioestimuladores",
+    "hero": "/img/pexels/bioestimuladores-a.webp",
+    "ambiance": "/img/pexels/bioestimuladores-b.webp",
+    "credits": [
+      {
+        "photographer": "Denys Mikhalevych",
+        "url": "https://www.pexels.com/photo/unrecognizable-beautician-removing-clay-mask-from-woman-face-12115040/"
+      },
+      {
+        "photographer": "Gustavo Fring",
+        "url": "https://www.pexels.com/photo/woman-getting-a-facial-treatment-3985329/"
+      }
+    ]
+  },
+  {
+    "slug": "celulitis-y-flacidez",
+    "hero": "/img/pexels/celulitis-y-flacidez-a.webp",
+    "ambiance": "/img/pexels/celulitis-y-flacidez-b.webp",
+    "credits": [
+      {
+        "photographer": "Nothing Ahead",
+        "url": "https://www.pexels.com/photo/relaxing-back-massage-therapy-session-37719647/"
+      },
+      {
+        "photographer": "Nothing Ahead",
+        "url": "https://www.pexels.com/photo/relaxing-outdoor-back-massage-therapy-session-37719631/"
+      }
+    ]
+  },
+  {
+    "slug": "estrias-y-cicatrices",
+    "hero": "/img/pexels/estrias-y-cicatrices-a.webp",
+    "ambiance": "/img/pexels/estrias-y-cicatrices-b.webp",
+    "credits": [
+      {
+        "photographer": "SHVETS production",
+        "url": "https://www.pexels.com/photo/woman-putting-cosmetic-product-on-her-skin-9774615/"
+      },
+      {
+        "photographer": "SHVETS production",
+        "url": "https://www.pexels.com/photo/woman-resting-bottle-of-cream-on-her-shoulder-9774868/"
+      }
+    ]
+  },
+  {
+    "slug": "mesoterapia-y-vitaminas",
+    "hero": "/img/pexels/mesoterapia-y-vitaminas-a.webp",
+    "ambiance": "/img/pexels/mesoterapia-y-vitaminas-b.webp",
+    "credits": [
+      {
+        "photographer": "Gustavo Fring",
+        "url": "https://www.pexels.com/photo/woman-getting-a-facial-treatment-3985332/"
+      },
+      {
+        "photographer": "Anna Shvets",
+        "url": "https://www.pexels.com/photo/cosmetologist-injecting-a-woman-in-a-face-with-a-syringe-4586708/"
+      }
+    ]
+  },
+  {
+    "slug": "peeling-facial",
+    "hero": "/img/pexels/peeling-facial-a.webp",
+    "ambiance": "/img/pexels/peeling-facial-b.webp",
+    "credits": [
+      {
+        "photographer": "Denys Mikhalevych",
+        "url": "https://www.pexels.com/photo/unrecognizable-beautician-removing-clay-mask-from-woman-face-12115040/"
+      },
+      {
+        "photographer": "Gustavo Fring",
+        "url": "https://www.pexels.com/photo/crop-female-cosmetologist-removing-purifying-mask-from-face-of-relaxed-woman-in-contemporary-clinic-3985361/"
+      }
+    ]
+  },
+  {
+    "slug": "plasma-rico-en-plaquetas",
+    "hero": "/img/pexels/plasma-rico-en-plaquetas-a.webp",
+    "ambiance": "/img/pexels/plasma-rico-en-plaquetas-b.webp",
+    "credits": [
+      {
+        "photographer": "SHVETS production",
+        "url": "https://www.pexels.com/photo/woman-holding-bottle-of-cosmetic-product-and-pipette-9774782/"
+      },
+      {
+        "photographer": "www.kaboompics.com",
+        "url": "https://www.pexels.com/photo/close-up-of-woman-applying-a-cosmetic-product-with-pipette-on-her-collarbones-7321503/"
+      }
+    ]
+  },
+  {
+    "slug": "reduccion-de-grasa",
+    "hero": "/img/pexels/reduccion-de-grasa-a.webp",
+    "ambiance": "/img/pexels/reduccion-de-grasa-b.webp",
+    "credits": [
+      {
+        "photographer": "Andrea Piacquadio",
+        "url": "https://www.pexels.com/photo/photo-of-woman-wearing-grey-sports-bra-3757374/"
+      },
+      {
+        "photographer": "Andrea Piacquadio",
+        "url": "https://www.pexels.com/photo/photo-of-woman-wearing-grey-sports-bra-3757934/"
+      }
+    ]
+  },
+  {
+    "slug": "regeneracion-capilar",
+    "hero": "/img/pexels/regeneracion-capilar-a.webp",
+    "ambiance": "/img/pexels/regeneracion-capilar-b.webp",
+    "credits": [
+      {
+        "photographer": "Beyzanur K.",
+        "url": "https://www.pexels.com/photo/woman-applying-hair-conditioner-from-red-bottle-28994650/"
+      },
+      {
+        "photographer": "Beyzanur K.",
+        "url": "https://www.pexels.com/photo/woman-combing-long-red-hair-with-wooden-comb-28994387/"
+      }
+    ]
+  },
+  {
+    "slug": "rejuvenecimiento-corporal",
+    "hero": "/img/pexels/rejuvenecimiento-corporal-a.webp",
+    "ambiance": "/img/pexels/rejuvenecimiento-corporal-b.webp",
+    "credits": [
+      {
+        "photographer": "Andrea Piacquadio",
+        "url": "https://www.pexels.com/photo/woman-in-wrapped-in-white-towel-lying-on-bed-with-eyes-closed-3757942/"
+      },
+      {
+        "photographer": "Andrea Piacquadio",
+        "url": "https://www.pexels.com/photo/woman-covered-with-towel-lying-on-gray-bed-3921392/"
+      }
+    ]
+  },
+  {
+    "slug": "relleno-de-labios",
+    "hero": "/img/pexels/relleno-de-labios-a.webp",
+    "ambiance": "/img/pexels/relleno-de-labios-b.webp",
+    "credits": [
+      {
+        "photographer": "Shiny Diamond",
+        "url": "https://www.pexels.com/photo/close-up-photo-of-woman-with-pink-lipstick-3762433/"
+      },
+      {
+        "photographer": "Shiny Diamond",
+        "url": "https://www.pexels.com/photo/woman-with-red-lipstick-smiling-3762458/"
+      }
+    ]
+  },
+  {
+    "slug": "toxina-botulinica",
+    "hero": "/img/pexels/toxina-botulinica-a.webp",
+    "ambiance": "/img/pexels/toxina-botulinica-b.webp",
+    "credits": [
+      {
+        "photographer": "Shiny Diamond",
+        "url": "https://www.pexels.com/photo/woman-with-pink-lipstick-smiling-3762761/"
+      },
+      {
+        "photographer": "Shiny Diamond",
+        "url": "https://www.pexels.com/photo/smiling-woman-with-eyes-closed-3762407/"
+      }
+    ]
+  },
+  {
+    "slug": "emface",
+    "hero": "/img/pexels/emface-a.webp",
+    "ambiance": "/img/pexels/emface-b.webp",
+    "credits": [
+      {
+        "photographer": "Denys Mikhalevych",
+        "url": "https://www.pexels.com/photo/unrecognizable-beautician-removing-clay-mask-from-woman-face-12115040/"
+      },
+      {
+        "photographer": "Yan Krukau",
+        "url": "https://www.pexels.com/photo/a-pretty-woman-wearing-under-eye-masks-7011191/"
+      }
+    ]
+  },
+  {
+    "slug": "emsculpt-neo",
+    "hero": "/img/pexels/emsculpt-neo-a.webp",
+    "ambiance": "/img/pexels/emsculpt-neo-b.webp",
+    "credits": [
+      {
+        "photographer": "Mohammad  Ubaid",
+        "url": "https://www.pexels.com/photo/kneeling-muscular-man-17956264/"
+      },
+      {
+        "photographer": "Andrea Piacquadio",
+        "url": "https://www.pexels.com/photo/topless-man-leaning-on-glass-window-3839040/"
+      }
+    ]
+  },
+  {
+    "slug": "exilite",
+    "hero": "/img/pexels/exilite-a.webp",
+    "ambiance": "/img/pexels/exilite-b.webp",
+    "credits": [
+      {
+        "photographer": "Anna Shvets",
+        "url": "https://www.pexels.com/photo/cosmetologist-performing-scar-whitening-on-a-woman-4586726/"
+      },
+      {
+        "photographer": "Gustavo Fring",
+        "url": "https://www.pexels.com/photo/from-above-female-cosmetologist-providing-cosmetic-procedures-with-laser-to-female-client-in-salon-3985356/"
+      }
+    ]
+  },
+  {
+    "slug": "exomind",
+    "hero": "/img/pexels/exomind-a.webp",
+    "ambiance": "/img/pexels/exomind-b.webp",
+    "credits": [
+      {
+        "photographer": "MART  PRODUCTION",
+        "url": "https://www.pexels.com/photo/a-woman-meditating-8032840/"
+      },
+      {
+        "photographer": "Kevin  Malik",
+        "url": "https://www.pexels.com/photo/a-woman-in-brown-shirt-meditating-on-green-grass-9031648/"
+      }
+    ]
+  },
+  {
+    "slug": "exosomas-autologos",
+    "hero": "/img/pexels/exosomas-autologos-a.webp",
+    "ambiance": "/img/pexels/exosomas-autologos-b.webp",
+    "credits": [
+      {
+        "photographer": "Fernando Serrano",
+        "url": "https://www.pexels.com/photo/mixing-ingredients-of-cosmetic-with-pipette-16100839/"
+      },
+      {
+        "photographer": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/woman-holding-a-graduated-cylinder-behind-a-man-8923159/"
+      }
+    ]
+  },
+  {
+    "slug": "hebe",
+    "hero": "/img/pexels/hebe-a.webp",
+    "ambiance": "/img/pexels/hebe-b.webp",
+    "credits": [
+      {
+        "photographer": "Denys Mikhalevych",
+        "url": "https://www.pexels.com/photo/unrecognizable-beautician-removing-clay-mask-from-woman-face-12115040/"
+      },
+      {
+        "photographer": "Gustavo Fring",
+        "url": "https://www.pexels.com/photo/woman-getting-a-facial-treatment-3985329/"
+      }
+    ]
+  },
+  {
+    "slug": "hydrafacial",
+    "hero": "/img/pexels/hydrafacial-a.webp",
+    "ambiance": "/img/pexels/hydrafacial-b.webp",
+    "credits": [
+      {
+        "photographer": "Fall Fall",
+        "url": "https://www.pexels.com/photo/woman-doing-a-treatment-at-beautician-19242406/"
+      },
+      {
+        "photographer": "Gustavo Fring",
+        "url": "https://www.pexels.com/photo/woman-getting-a-facial-treatment-3985321/"
+      }
+    ]
+  },
+  {
+    "slug": "laser-co2-fractal-aurora",
+    "hero": "/img/pexels/laser-co2-fractal-aurora-a.webp",
+    "ambiance": "/img/pexels/laser-co2-fractal-aurora-b.webp",
+    "credits": [
+      {
+        "photographer": "Anna Shvets",
+        "url": "https://www.pexels.com/photo/cosmetologist-performing-scar-whitening-on-a-woman-4586726/"
+      },
+      {
+        "photographer": "Anna Shvets",
+        "url": "https://www.pexels.com/photo/a-woman-doing-facial-care-to-her-patient-4586728/"
+      }
+    ]
+  },
+  {
+    "slug": "morpheus8",
+    "hero": "/img/pexels/morpheus8-a.webp",
+    "ambiance": "/img/pexels/morpheus8-b.webp",
+    "credits": [
+      {
+        "photographer": "Gustavo Fring",
+        "url": "https://www.pexels.com/photo/crop-female-cosmetologist-removing-purifying-mask-from-face-of-relaxed-woman-in-contemporary-clinic-3985361/"
+      },
+      {
+        "photographer": "Anna Shvets",
+        "url": "https://www.pexels.com/photo/cosmetologist-injecting-a-woman-in-a-face-with-a-syringe-4586708/"
+      }
+    ]
+  },
+  {
+    "slug": "quantumrf",
+    "hero": "/img/pexels/quantumrf-a.webp",
+    "ambiance": "/img/pexels/quantumrf-b.webp",
+    "credits": [
+      {
+        "photographer": "Denys Mikhalevych",
+        "url": "https://www.pexels.com/photo/unrecognizable-beautician-removing-clay-mask-from-woman-face-12115040/"
+      },
+      {
+        "photographer": "MART  PRODUCTION",
+        "url": "https://www.pexels.com/photo/woman-doing-facial-massage-on-her-face-8076093/"
+      }
+    ]
+  },
+  {
+    "slug": "xwave",
+    "hero": "/img/pexels/xwave-a.webp",
+    "ambiance": "/img/pexels/xwave-b.webp",
+    "credits": [
+      {
+        "photographer": "www.kaboompics.com",
+        "url": "https://www.pexels.com/photo/a-woman-having-a-massage-6629601/"
+      },
+      {
+        "photographer": "Nothing Ahead",
+        "url": "https://www.pexels.com/photo/relaxing-outdoor-massage-therapy-session-37719557/"
+      }
+    ]
+  }
+]

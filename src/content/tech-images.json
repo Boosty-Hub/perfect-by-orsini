@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "emface",
+    "hero": "/img/tech/emface-a.webp",
+    "ambiance": "/img/tech/emface-b.webp"
+  },
+  {
+    "slug": "emsculpt-neo",
+    "hero": "/img/tech/emsculpt-neo-a.webp",
+    "ambiance": "/img/tech/emsculpt-neo-b.webp"
+  },
+  {
+    "slug": "exilite",
+    "hero": "/img/tech/exilite-a.webp",
+    "ambiance": "/img/tech/exilite-a.webp"
+  },
+  {
+    "slug": "exomind",
+    "hero": "/img/tech/exomind-a.webp",
+    "ambiance": "/img/tech/exomind-b.webp"
+  },
+  {
+    "slug": "exosomas-autologos",
+    "hero": "/img/tech/exosomas-autologos-a.webp",
+    "ambiance": "/img/tech/exosomas-autologos-b.webp"
+  },
+  {
+    "slug": "hebe",
+    "hero": "/img/tech/hebe-a.webp",
+    "ambiance": "/img/tech/hebe-a.webp"
+  },
+  {
+    "slug": "hydrafacial",
+    "hero": "/img/tech/hydrafacial-a.webp",
+    "ambiance": "/img/tech/hydrafacial-a.webp"
+  },
+  {
+    "slug": "laser-co2-fractal-aurora",
+    "hero": "/img/tech/laser-co2-fractal-aurora-a.webp",
+    "ambiance": "/img/tech/laser-co2-fractal-aurora-a.webp"
+  },
+  {
+    "slug": "morpheus8",
+    "hero": "/img/tech/morpheus8-a.webp",
+    "ambiance": "/img/tech/morpheus8-b.webp"
+  },
+  {
+    "slug": "quantumrf",
+    "hero": "/img/tech/quantumrf-a.webp",
+    "ambiance": "/img/tech/quantumrf-a.webp"
+  },
+  {
+    "slug": "xwave",
+    "hero": "/img/tech/xwave-a.webp",
+    "ambiance": "/img/tech/xwave-a.webp"
+  }
+]
