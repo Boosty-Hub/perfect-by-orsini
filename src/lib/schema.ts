@@ -127,3 +127,34 @@ export function faqSchema(faqs: Faq[]) {
     })),
   };
 }
+
+/**
+ * Review + AggregateRating schema for the clinic. Emits ONLY testimonials marked
+ * `verified: true` (real, consented reviews). Returns null while all are
+ * placeholders, so no fake review markup is ever published.
+ */
+export function reviewsSchema(
+  items: { name: string; quote: string; rating: number; verified?: boolean }[],
+) {
+  const verified = items.filter((t) => t.verified);
+  if (!verified.length) return null;
+  const avg = verified.reduce((s, t) => s + t.rating, 0) / verified.length;
+  return {
+    "@context": "https://schema.org",
+    "@type": "MedicalClinic",
+    "@id": CLINIC_ID,
+    name: site.name,
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: avg.toFixed(1),
+      reviewCount: verified.length,
+      bestRating: 5,
+    },
+    review: verified.map((t) => ({
+      "@type": "Review",
+      author: { "@type": "Person", name: t.name },
+      reviewRating: { "@type": "Rating", ratingValue: t.rating, bestRating: 5 },
+      reviewBody: t.quote,
+    })),
+  };
+}

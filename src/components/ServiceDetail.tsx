@@ -16,6 +16,9 @@ import { bookingUrl, whatsappUrl } from "@/lib/cta";
 import { site } from "@/config/site";
 import { serviceImage, ambianceImage, serviceVideo } from "@/config/images";
 import { HeroMedia } from "@/components/HeroMedia";
+import { Testimonials } from "@/components/Testimonials";
+import { LeadForm } from "@/components/LeadForm";
+import { MouseParallax } from "@/components/motion/MouseParallax";
 
 const steps = [
   {
@@ -73,6 +76,22 @@ export function ServiceDetail({
   const video = serviceVideo(s.slug);
   const ambiance = ambianceImage(s.slug, Boolean(video));
 
+  const formCopy: Record<string, { intro: string; ph: string }> = {
+    cirugia: {
+      intro: `Cuéntanos tu objetivo con tu ${name.toLowerCase()} y te contactamos para coordinar tu evaluación médica con el Dr. Orsini.`,
+      ph: `Cuéntanos tu objetivo con tu ${name.toLowerCase()} y desde cuándo lo consideras…`,
+    },
+    tratamiento: {
+      intro: `Déjanos tus datos y te orientamos sobre ${name} según lo que te gustaría mejorar.`,
+      ph: "Cuéntanos qué te gustaría mejorar…",
+    },
+    tecnologia: {
+      intro: `¿Te interesa ${name}? Déjanos tus datos y evaluamos juntos si es la mejor opción para ti.`,
+      ph: "Cuéntanos qué zona o resultado te interesa…",
+    },
+  };
+  const fc = formCopy[s.kind] ?? formCopy.tratamiento;
+
   return (
     <main>
       <JsonLd
@@ -105,12 +124,14 @@ export function ServiceDetail({
           </Reveal>
           <Reveal delay={0.1}>
             <div className="relative aspect-[4/3] w-full overflow-hidden rounded-[2rem] ring-1 ring-white/10">
-              <HeroMedia
-                image={hero}
-                video={video}
-                alt={`${name} — Perfect by Dr. Orsini, Caracas`}
-                priority
-              />
+              <MouseParallax className="absolute inset-0" strength={14}>
+                <HeroMedia
+                  image={hero}
+                  video={video}
+                  alt={`${name} — Perfect by Dr. Orsini, Caracas`}
+                  priority
+                />
+              </MouseParallax>
             </div>
           </Reveal>
         </Container>
@@ -315,6 +336,41 @@ export function ServiceDetail({
                 </li>
               ))}
             </ul>
+          </Reveal>
+        </Container>
+      </section>
+
+      {/* Testimonials */}
+      <Testimonials
+        limit={3}
+        className="bg-cream-100"
+        eyebrow="Experiencias"
+        heading="Pacientes que confiaron en nosotros"
+      />
+
+      {/* Lead form (personalized to this service) */}
+      <section className="py-14 sm:py-20">
+        <Container className="grid items-center gap-10 lg:grid-cols-2">
+          <Reveal>
+            <p className="text-xs uppercase tracking-[0.3em] text-nude-400">Da el primer paso</p>
+            <h2 className="mt-2 text-4xl text-indigo-900">¿Hablamos sobre tu {name.toLowerCase()}?</h2>
+            <p className="mt-4 max-w-md leading-relaxed text-nude-500">{fc.intro}</p>
+            <ul className="mt-7 space-y-2.5 text-sm text-nude-500">
+              <li>◆ Evaluación con el Dr. Orsini, sin compromiso</li>
+              <li>◆ Plan personalizado para tu caso</li>
+              <li>◆ Te contactamos a la brevedad</li>
+            </ul>
+          </Reveal>
+          <Reveal delay={0.1}>
+            <LeadForm
+              source={`${kindLabel[s.kind]}: ${name}`}
+              serviceSlug={s.slug}
+              kind={s.kind}
+              interest={name}
+              heading={`Solicita información sobre ${name}`}
+              intro={`Completa tus datos y te contactamos sobre ${name}.`}
+              messagePlaceholder={fc.ph}
+            />
           </Reveal>
         </Container>
       </section>

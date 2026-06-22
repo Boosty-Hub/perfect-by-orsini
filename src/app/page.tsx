@@ -4,8 +4,22 @@ import { Container } from "@/components/ui/Container";
 import { Button } from "@/components/ui/Button";
 import { Reveal, Stagger, StaggerItem } from "@/components/motion/Reveal";
 import { ParallaxBg } from "@/components/motion/ParallaxBg";
-import { featuredSurgeries, shortName, serviceHref } from "@/lib/services";
+import { Testimonials } from "@/components/Testimonials";
+import { InstagramGrid } from "@/components/InstagramGrid";
+import { LeadForm } from "@/components/LeadForm";
+import { MouseParallax } from "@/components/motion/MouseParallax";
+import { JsonLd } from "@/components/JsonLd";
+import {
+  featuredSurgeries,
+  surgeries,
+  treatments,
+  technologies,
+  shortName,
+  serviceHref,
+} from "@/lib/services";
+import { reviewsSchema } from "@/lib/schema";
 import { specialties } from "@/content/taxonomy";
+import { testimonials } from "@/content/testimonials";
 import { site } from "@/config/site";
 import { photos } from "@/config/images";
 import { bookingUrl, whatsappUrl } from "@/lib/cta";
@@ -30,8 +44,15 @@ const techTeaser = [
 ];
 
 export default function HomePage() {
+  const reviews = reviewsSchema(testimonials);
+  const interestOptions = [
+    ...surgeries.map(shortName),
+    ...treatments.map(shortName),
+    ...technologies.map(shortName),
+  ];
   return (
     <main>
+      {reviews && <JsonLd data={reviews} />}
       {/* Hero */}
       <section className="bg-indigo-900 text-cream-50">
         <Container className="grid items-center gap-12 py-14 sm:py-20 lg:grid-cols-2 lg:py-28">
@@ -54,14 +75,16 @@ export default function HomePage() {
           </Reveal>
           <Reveal delay={0.1}>
             <div className="relative mx-auto aspect-[4/5] w-full max-w-sm overflow-hidden rounded-[2rem] ring-1 ring-white/10">
-              <Image
-                src={photos.doctorPortraitSuit}
-                alt="Dr. Omar Orsini, cirujano plástico en Caracas"
-                fill
-                priority
-                sizes="(max-width: 1024px) 80vw, 400px"
-                className="object-cover object-top"
-              />
+              <MouseParallax className="absolute inset-0" strength={16}>
+                <Image
+                  src={photos.doctorPortraitSuit}
+                  alt="Dr. Omar Orsini, cirujano plástico en Caracas"
+                  fill
+                  priority
+                  sizes="(max-width: 1024px) 80vw, 400px"
+                  className="object-cover object-top"
+                />
+              </MouseParallax>
             </div>
           </Reveal>
         </Container>
@@ -186,15 +209,17 @@ export default function HomePage() {
                   href={t.href}
                   className="group relative block aspect-[4/3] overflow-hidden rounded-3xl"
                 >
-                  <Image
-                    src={t.img}
-                    alt={t.title}
-                    fill
-                    sizes="(max-width: 640px) 92vw, 380px"
-                    className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-indigo-950 via-indigo-950/30 to-transparent" />
-                  <div className="absolute inset-x-0 bottom-0 p-5 text-cream-50">
+                  <MouseParallax className="absolute inset-0" strength={12}>
+                    <Image
+                      src={t.img}
+                      alt={t.title}
+                      fill
+                      sizes="(max-width: 640px) 92vw, 380px"
+                      className="object-cover"
+                    />
+                  </MouseParallax>
+                  <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-indigo-950 via-indigo-950/30 to-transparent" />
+                  <div className="pointer-events-none absolute inset-x-0 bottom-0 p-5 text-cream-50">
                     <p className="font-serif text-xl">{t.title}</p>
                     <p className="mt-1 text-xs text-cream-100/80">{t.note}</p>
                   </div>
@@ -239,6 +264,40 @@ export default function HomePage() {
                 className="object-cover"
               />
             </div>
+          </Reveal>
+        </Container>
+      </section>
+
+      {/* Testimonials */}
+      <Testimonials />
+
+      {/* Instagram */}
+      <InstagramGrid />
+
+      {/* Lead form */}
+      <section className="py-14 sm:py-20">
+        <Container className="grid items-center gap-10 lg:grid-cols-2">
+          <Reveal>
+            <p className="text-xs uppercase tracking-[0.3em] text-nude-400">Agenda tu evaluación</p>
+            <h2 className="mt-2 text-4xl text-indigo-900">Cuéntanos qué te gustaría mejorar</h2>
+            <p className="mt-4 max-w-md leading-relaxed text-nude-500">
+              Déjanos tus datos y el procedimiento que te interesa. Nuestro equipo te contactará para
+              coordinar una evaluación personalizada con el Dr. Orsini en Caracas.
+            </p>
+            <ul className="mt-7 space-y-2.5 text-sm text-nude-500">
+              <li>◆ Atención personalizada y sin compromiso</li>
+              <li>◆ Cirujano plástico certificado (SVCPREM #521)</li>
+              <li>◆ Te contactamos a la brevedad</li>
+            </ul>
+          </Reveal>
+          <Reveal delay={0.1}>
+            <LeadForm
+              source="Home"
+              kind="home"
+              interestOptions={interestOptions}
+              heading="Solicita tu evaluación"
+              messagePlaceholder="Cuéntanos qué te gustaría mejorar o lograr…"
+            />
           </Reveal>
         </Container>
       </section>

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { SocialLinks } from "@/components/SocialLinks";
 import { site } from "@/config/site";
 import { phoneUrl, emailUrl, whatsappUrl } from "@/lib/cta";
 import { surgeries, treatments, serviceHref, shortName } from "@/lib/services";
@@ -60,6 +61,7 @@ export function Footer() {
           <p className="mt-4 max-w-xs text-sm leading-relaxed">
             Cirugía plástica y medicina estética en Caracas. {site.doctor.credentials}.
           </p>
+          <SocialLinks className="mt-6" />
         </div>
 
         <LinkCol title="Cirugías" links={cirugiaLinks} className="md:col-span-2" />
