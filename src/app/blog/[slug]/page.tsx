@@ -31,7 +31,10 @@ export async function generateMetadata({
   if (!a) return {};
   const url = `/blog/${a.slug}`;
   return {
-    title: a.metaTitle ?? a.title,
+    // Stored meta_title values already include the brand; use `absolute` to avoid
+    // doubling it via title.template. When absent, fall back to the bare article
+    // title plus a single brand suffix.
+    title: { absolute: a.metaTitle ?? `${a.title} | Perfect by Dr. Orsini` },
     description: a.excerpt,
     alternates: { canonical: url },
     openGraph: {

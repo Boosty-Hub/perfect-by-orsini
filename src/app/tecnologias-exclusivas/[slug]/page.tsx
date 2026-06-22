@@ -18,7 +18,9 @@ export async function generateMetadata({
   if (!s || s.kind !== "tecnologia") return {};
   const url = `/tecnologias-exclusivas/${s.slug}`;
   return {
-    title: s.metaTitle,
+    // metaTitle already carries the brand suffix; `absolute` stops the root
+    // layout's title.template from appending it a second time.
+    title: { absolute: s.metaTitle },
     description: s.metaDescription,
     alternates: { canonical: url },
     openGraph: {
