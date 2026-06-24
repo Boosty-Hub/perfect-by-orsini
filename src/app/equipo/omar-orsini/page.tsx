@@ -38,6 +38,14 @@ export default function DoctorPage() {
           <Breadcrumbs items={crumbs} />
           <div className="mt-6 grid items-center gap-10 lg:grid-cols-[minmax(0,1fr)_360px]">
             <div>
+              <Image
+                src="/img/brand/logo-dr-orsini-horizontal-white.png"
+                alt="Dr. Orsini"
+                width={260}
+                height={88}
+                priority
+                className="mb-7 h-auto w-44 sm:w-52"
+              />
               <p className="text-xs uppercase tracking-[0.3em] text-nude-300">
                 Cirujano Plástico · Caracas
               </p>

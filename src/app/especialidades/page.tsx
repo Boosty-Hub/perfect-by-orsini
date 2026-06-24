@@ -10,7 +10,7 @@ import { photos } from "@/config/images";
 export const metadata: Metadata = {
   title: "Especialidades · Perfect by Dr. Orsini en Caracas",
   description:
-    "Cirugía plástica, medicina estética facial, bienestar y medicina regenerativa y rehabilitación en Caracas.",
+    "Cirugía plástica, medicina estética facial y corporal, bienestar, medicina regenerativa y longevidad, y rehabilitación en Caracas.",
   alternates: { canonical: "/especialidades" },
 };
 
@@ -28,12 +28,12 @@ const meta: Record<string, { href: string; img: string; desc: string }> = {
   "medicina-estetica-facial": {
     href: "/servicios#tratamientos",
     img: photos.emfaceFace,
-    desc: "Rejuvenecimiento facial y armonización con resultados naturales.",
+    desc: "Rejuvenecimiento facial y corporal con resultados naturales.",
   },
   "bienestar-y-regeneracion": {
     href: "/servicios#tratamientos",
     img: photos.exomindBrain,
-    desc: "Medicina regenerativa, bienestar y cuidado integral.",
+    desc: "Medicina regenerativa, longevidad, bienestar y cuidado integral.",
   },
   rehabilitacion: {
     href: "/servicios#tratamientos",

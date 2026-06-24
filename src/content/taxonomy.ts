@@ -6,8 +6,8 @@ import type { ServiceKind } from "./schema";
  */
 export const specialties = [
   { slug: "cirugia-plastica", name: "Cirugía Plástica", order: 1 },
-  { slug: "medicina-estetica-facial", name: "Medicina Estética Facial", order: 2 },
-  { slug: "bienestar-y-regeneracion", name: "Bienestar y Medicina Regenerativa", order: 3 },
+  { slug: "medicina-estetica-facial", name: "Medicina Estética", order: 2 },
+  { slug: "bienestar-y-regeneracion", name: "Bienestar, Medicina Regenerativa y Longevidad", order: 3 },
   { slug: "rehabilitacion", name: "Rehabilitación", order: 4 },
 ] as const;
 
